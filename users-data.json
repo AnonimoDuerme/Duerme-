@@ -3,8 +3,27 @@
     "username": "Sara",
     "profileImage": "",
     "memberSince": "marzo 2025",
-    "sleepRecords": [],
-    "dreams": [],
+    "sleepRecords": [
+      {
+        "duration": 7,
+        "quality": 2,
+        "mood": "refreshed",
+        "dreamType": "flying",
+        "dreamDescription": "",
+        "id": "1750271383485",
+        "date": "2025-06-18"
+      }
+    ],
+    "dreams": [
+      {
+        "id": "1750271383487",
+        "date": "18 de junio",
+        "type": "Volar",
+        "emoji": "🕊️",
+        "description": "Sin descripción",
+        "color": "from-blue-500/20 to-cyan-500/20"
+      }
+    ],
     "settings": {
       "darkMode": true,
       "language": "es",
