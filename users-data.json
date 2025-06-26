@@ -148,8 +148,27 @@
     "username": "holi",
     "profileImage": "📱",
     "memberSince": "marzo 2025",
-    "sleepRecords": [],
-    "dreams": [],
+    "sleepRecords": [
+      {
+        "duration": 8.5,
+        "quality": 3,
+        "mood": "tired",
+        "dreamType": "teeth",
+        "dreamDescription": "",
+        "id": "1750948561690",
+        "date": "2025-06-26"
+      }
+    ],
+    "dreams": [
+      {
+        "id": "1750948561691",
+        "date": "26 de junio",
+        "type": "Dientes cayendo",
+        "emoji": "🦷",
+        "description": "Sin descripción",
+        "color": "from-yellow-500/20 to-orange-500/20"
+      }
+    ],
     "settings": {
       "darkMode": true,
       "language": "es",
