@@ -209,8 +209,27 @@
     "username": "iPhone_5488",
     "profileImage": "📱",
     "memberSince": "marzo 2025",
-    "sleepRecords": [],
-    "dreams": [],
+    "sleepRecords": [
+      {
+        "duration": 9.5,
+        "quality": 1,
+        "mood": "calm",
+        "dreamType": "pleasant",
+        "dreamDescription": "",
+        "id": "1750948637058",
+        "date": "2025-06-26"
+      }
+    ],
+    "dreams": [
+      {
+        "id": "1750948637059",
+        "date": "26 de junio",
+        "type": "Agradable",
+        "emoji": "😊",
+        "description": "Sin descripción",
+        "color": "from-green-500/20 to-emerald-500/20"
+      }
+    ],
     "settings": {
       "darkMode": true,
       "language": "es",
