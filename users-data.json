@@ -326,5 +326,26 @@
         "wakeTime": "07:00"
       }
     }
+  },
+  "Sebilebi": {
+    "username": "Sebilebi",
+    "profileImage": "",
+    "memberSince": "marzo 2025",
+    "sleepRecords": [],
+    "dreams": [],
+    "settings": {
+      "darkMode": true,
+      "language": "es",
+      "notifications": {
+        "push": true,
+        "email": false,
+        "reminders": true
+      },
+      "sleepGoals": {
+        "targetHours": 8,
+        "bedtime": "23:00",
+        "wakeTime": "07:00"
+      }
+    }
   }
 }
