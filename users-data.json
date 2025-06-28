@@ -249,8 +249,27 @@
     "username": "hola",
     "profileImage": "📱",
     "memberSince": "marzo 2025",
-    "sleepRecords": [],
-    "dreams": [],
+    "sleepRecords": [
+      {
+        "duration": 10,
+        "quality": 2,
+        "mood": "groggy",
+        "dreamType": "other",
+        "dreamDescription": "",
+        "id": "1751125893791",
+        "date": "2025-06-28"
+      }
+    ],
+    "dreams": [
+      {
+        "id": "1751125893792",
+        "date": "28 de junio",
+        "type": "Otro",
+        "emoji": "✨",
+        "description": "Sin descripción",
+        "color": "from-purple-500/20 to-indigo-500/20"
+      }
+    ],
     "settings": {
       "darkMode": true,
       "language": "es",
