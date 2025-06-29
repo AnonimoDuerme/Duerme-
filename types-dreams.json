@@ -1,0 +1,105 @@
+{
+  "dreamTypes": [
+    {
+      "id": "falling",
+      "name": "Caída al vacío",
+      "emoji": "⬇️",
+      "description": "Sueños intensos que suelen provocar el despertar. El cuerpo interpreta la caída como amenaza.",
+      "color": "from-purple-500/20 to-pink-500/20",
+      "category": "Común",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "death",
+      "name": "Muerte",
+      "emoji": "💀",
+      "description": "Simboliza el final de una etapa o necesidad de cambio en la vida.",
+      "color": "from-gray-500/20 to-slate-500/20",
+      "category": "Simbólico",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "flying",
+      "name": "Volar",
+      "emoji": "🕊️",
+      "description": "Refleja deseo de libertad y liberación. Importante observar las sensaciones durante el vuelo.",
+      "color": "from-blue-500/20 to-cyan-500/20",
+      "category": "Liberación",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "spiders",
+      "name": "Arañas",
+      "emoji": "🕷️",
+      "description": "Puede representar miedos relacionados con pareja, dinero o trabajo. Varía según la acción de la araña.",
+      "color": "from-red-500/20 to-orange-500/20",
+      "category": "Miedo",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "teeth",
+      "name": "Caída de dientes",
+      "emoji": "🦷",
+      "description": "Uno de los más frecuentes. Refleja ansiedad o miedo a perder algo valioso.",
+      "color": "from-yellow-500/20 to-orange-500/20",
+      "category": "Ansiedad",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "chase",
+      "name": "Persecución",
+      "emoji": "🏃",
+      "description": "Refleja que estás evitando una situación o problema en tu vida real.",
+      "color": "from-red-500/20 to-pink-500/20",
+      "category": "Evasión",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "water",
+      "name": "Agua",
+      "emoji": "🌊",
+      "description": "Simboliza emociones y el estado del inconsciente. Aguas claras = claridad emocional.",
+      "color": "from-blue-500/20 to-teal-500/20",
+      "category": "Emocional",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "lucid",
+      "name": "Sueños lúcidos",
+      "emoji": "🧠",
+      "description": "Sueños donde eres consciente de que estás soñando y puedes controlar el desarrollo.",
+      "color": "from-purple-500/20 to-indigo-500/20",
+      "category": "Consciente",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "nightmare",
+      "name": "Pesadillas",
+      "emoji": "😰",
+      "description": "Sueños intensamente desagradables que provocan miedo, angustia o ansiedad.",
+      "color": "from-red-500/20 to-black/20",
+      "category": "Negativo",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    },
+    {
+      "id": "creative",
+      "name": "Sueños creativos",
+      "emoji": "✨",
+      "description": "Traen ideas creativas e imaginación que pueden ayudar a resolver problemas.",
+      "color": "from-green-500/20 to-emerald-500/20",
+      "category": "Inspiración",
+      "createdBy": "system",
+      "createdAt": "2025-06-29T12:33:56.213Z"
+    }
+  ],
+  "lastUpdated": "2025-06-29T12:33:56.430Z"
+}
