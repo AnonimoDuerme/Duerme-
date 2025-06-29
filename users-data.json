@@ -25,7 +25,7 @@
       }
     ],
     "settings": {
-      "darkMode": true,
+      "darkMode": false,
       "language": "es",
       "notifications": {
         "push": true,
