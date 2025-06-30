@@ -46,28 +46,6 @@
     },
     {
       "id": "5",
-      "name": "Persecución",
-      "emoji": "🏃‍♂️",
-      "description": "Sueños donde eres perseguido por alguien o algo.",
-      "interpretation": "Soñar que te persiguen puede reflejar que estás evitando una situación o problema en tu vida real. La persona o cosa que te persigue puede representar aspectos de ti mismo que estás rechazando o temiendo enfrentar.",
-      "category": "Evasión",
-      "color": "from-red-500/20 to-pink-500/20",
-      "createdBy": "system",
-      "createdAt": "2025-06-30T18:59:43.982Z"
-    },
-    {
-      "id": "6",
-      "name": "Agua",
-      "emoji": "🌊",
-      "description": "Sueños que involucran agua en diferentes formas.",
-      "interpretation": "El agua en los sueños suele simbolizar emociones y el estado del inconsciente. Aguas claras pueden representar claridad emocional, mientras que aguas turbias pueden indicar confusión o emociones reprimidas.",
-      "category": "Emociones",
-      "color": "from-blue-500/20 to-teal-500/20",
-      "createdBy": "system",
-      "createdAt": "2025-06-30T18:59:43.983Z"
-    },
-    {
-      "id": "7",
       "name": "Muerte",
       "emoji": "💀",
       "description": "Sueños relacionados con la muerte propia o de otros.",
@@ -78,7 +56,7 @@
       "createdAt": "2025-06-30T18:59:43.983Z"
     },
     {
-      "id": "8",
+      "id": "6",
       "name": "Sueños lúcidos",
       "emoji": "🧠",
       "description": "Sueños donde eres consciente de que estás soñando.",
@@ -89,7 +67,7 @@
       "createdAt": "2025-06-30T18:59:43.983Z"
     },
     {
-      "id": "9",
+      "id": "7",
       "name": "Pesadillas",
       "emoji": "😱",
       "description": "Sueños intensamente desagradables que provocan miedo.",
@@ -100,7 +78,7 @@
       "createdAt": "2025-06-30T18:59:43.983Z"
     },
     {
-      "id": "10",
+      "id": "8",
       "name": "Sueños creativos",
       "emoji": "🎨",
       "description": "Sueños que traen ideas creativas e inspiración.",
@@ -111,37 +89,15 @@
       "createdAt": "2025-06-30T18:59:43.983Z"
     },
     {
-      "id": "1751310884006",
-      "name": "Aaaa",
-      "emoji": "🔷",
-      "description": "Nsss",
-      "interpretation": "Ajsbbd",
-      "category": "Evasión",
-      "color": "from-red-500/20 to-orange-500/20",
-      "createdBy": "Sara",
-      "createdAt": "2025-06-30T19:14:44.006Z"
-    },
-    {
-      "id": "1751311810859",
-      "name": "Virus",
-      "emoji": "🦠",
-      "description": "Virus ",
-      "interpretation": "Te jodes",
-      "category": "Miedos",
-      "color": "from-green-500/20 to-emerald-500/20",
-      "createdBy": "Sara",
-      "createdAt": "2025-06-30T19:30:10.859Z"
-    },
-    {
-      "id": "1751316752027",
-      "name": "Tt",
-      "emoji": "❤️",
-      "description": "Df",
-      "interpretation": "Gv",
-      "category": "Liberación",
-      "color": "from-red-500/20 to-orange-500/20",
-      "createdBy": "Sara",
-      "createdAt": "2025-06-30T20:52:32.027Z"
+      "id": "9",
+      "name": "Soñar con tu ex",
+      "emoji": "💔",
+      "description": "Sueños relacionados con exparejas sentimentales.",
+      "interpretation": "Este sueño puede tener múltiples interpretaciones. No significa necesariamente que se quiera retomar la relación, sino que puede ser un recordatorio del impacto que esa persona tuvo en la vida, como parte del proceso de duelo y sanación emocional. También puede reflejar sentimientos ocultos, asuntos no resueltos o una carencia de afecto en el presente, así como la añoranza de sentirse querido o deseado.",
+      "category": "Relaciones",
+      "color": "from-pink-500/20 to-rose-500/20",
+      "createdBy": "system",
+      "createdAt": "2025-06-30T20:52:32.455Z"
     }
   ],
   "lastUpdated": "2025-06-30T20:52:32.455Z"
