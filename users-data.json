@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751316793834",
+      "id": "1751316794845",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T20:53:13.834Z",
+      "registrationDate": "2025-06-30T20:53:14.845Z",
       "sleepRecords": [
         {
           "date": "2025-06-30",
@@ -25,16 +25,6 @@
           "mood": "calm",
           "notes": "",
           "id": "1751310965648"
-        },
-        {
-          "date": "2025-06-30",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 8.5,
-          "quality": 2,
-          "mood": "refreshed",
-          "notes": "",
-          "id": "1751316793833"
         }
       ],
       "dreams": [
@@ -73,6 +63,18 @@
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310981024"
+        },
+        {
+          "date": "2025-06-30",
+          "type": "Sueños lúcidos",
+          "description": "Sueño sobre sueños lúcidos",
+          "emotion": "refreshed",
+          "tags": [
+            "Control"
+          ],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751316794845"
         }
       ],
       "settings": {
@@ -91,5 +93,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T20:53:13.854Z"
+  "lastUpdated": "2025-06-30T20:53:15.129Z"
 }
