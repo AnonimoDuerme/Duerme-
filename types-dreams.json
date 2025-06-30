@@ -120,7 +120,18 @@
       "color": "from-red-500/20 to-orange-500/20",
       "createdBy": "Sara",
       "createdAt": "2025-06-30T19:14:44.006Z"
+    },
+    {
+      "id": "1751311810859",
+      "name": "Virus",
+      "emoji": "🦠",
+      "description": "Virus ",
+      "interpretation": "Te jodes",
+      "category": "Miedos",
+      "color": "from-green-500/20 to-emerald-500/20",
+      "createdBy": "Sara",
+      "createdAt": "2025-06-30T19:30:10.859Z"
     }
   ],
-  "lastUpdated": "2025-06-30T19:14:44.503Z"
+  "lastUpdated": "2025-06-30T19:30:11.403Z"
 }
