@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751310905285",
+      "id": "1751310905896",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T19:15:05.285Z",
+      "registrationDate": "2025-06-30T19:15:05.896Z",
       "sleepRecords": [
         {
           "date": "2025-06-30",
@@ -15,16 +15,6 @@
           "mood": "calm",
           "notes": "",
           "id": "1751310521935"
-        },
-        {
-          "date": "2025-06-30",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 7,
-          "quality": 4,
-          "mood": "stressed",
-          "notes": "",
-          "id": "1751310905285"
         }
       ],
       "dreams": [
@@ -39,6 +29,18 @@
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560170"
+        },
+        {
+          "date": "2025-06-30",
+          "type": "Aaaa",
+          "description": "Sueño sobre aaaa",
+          "emotion": "stressed",
+          "tags": [
+            "Evasión"
+          ],
+          "emoji": "🔷",
+          "color": "from-red-500/20 to-orange-500/20",
+          "id": "1751310905896"
         }
       ],
       "settings": {
@@ -57,5 +59,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T19:15:05.302Z"
+  "lastUpdated": "2025-06-30T19:15:06.196Z"
 }
