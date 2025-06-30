@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751310521935",
+      "id": "1751310559581",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T19:08:41.935Z",
+      "registrationDate": "2025-06-30T19:09:19.581Z",
       "sleepRecords": [
         {
           "date": "2025-06-30",
@@ -15,6 +15,16 @@
           "mood": "calm",
           "notes": "",
           "id": "1751310521935"
+        },
+        {
+          "date": "2025-06-30",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "stressed",
+          "notes": "",
+          "id": "1751310559581"
         }
       ],
       "dreams": [],
@@ -34,5 +44,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T19:08:41.967Z"
+  "lastUpdated": "2025-06-30T19:09:19.613Z"
 }
