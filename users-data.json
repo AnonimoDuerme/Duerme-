@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751309852726",
+      "id": "1751310155879",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T18:57:32.726Z",
+      "registrationDate": "2025-06-30T19:02:35.879Z",
       "sleepRecords": [],
       "dreams": [],
       "settings": {
@@ -23,5 +23,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T18:57:32.729Z"
+  "lastUpdated": "2025-06-30T19:02:35.913Z"
 }
