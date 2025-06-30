@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751310980575",
+      "id": "1751310981024",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T19:16:20.575Z",
+      "registrationDate": "2025-06-30T19:16:21.024Z",
       "sleepRecords": [
         {
           "date": "2025-06-30",
@@ -25,16 +25,6 @@
           "mood": "calm",
           "notes": "",
           "id": "1751310965648"
-        },
-        {
-          "date": "2025-06-30",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 5,
-          "quality": 3,
-          "mood": "calm",
-          "notes": "",
-          "id": "1751310980575"
         }
       ],
       "dreams": [
@@ -61,6 +51,18 @@
           "emoji": "🔷",
           "color": "from-red-500/20 to-orange-500/20",
           "id": "1751310905896"
+        },
+        {
+          "date": "2025-06-30",
+          "type": "Volar",
+          "description": "Sueño sobre volar",
+          "emotion": "calm",
+          "tags": [
+            "Liberación"
+          ],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310981024"
         }
       ],
       "settings": {
@@ -79,5 +81,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T19:16:20.583Z"
+  "lastUpdated": "2025-06-30T19:16:21.233Z"
 }
