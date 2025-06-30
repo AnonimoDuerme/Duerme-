@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751310559581",
+      "id": "1751310560170",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T19:09:19.581Z",
+      "registrationDate": "2025-06-30T19:09:20.170Z",
       "sleepRecords": [
         {
           "date": "2025-06-30",
@@ -15,19 +15,22 @@
           "mood": "calm",
           "notes": "",
           "id": "1751310521935"
-        },
-        {
-          "date": "2025-06-30",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 8,
-          "quality": 4,
-          "mood": "stressed",
-          "notes": "",
-          "id": "1751310559581"
         }
       ],
-      "dreams": [],
+      "dreams": [
+        {
+          "date": "2025-06-30",
+          "type": "Arañas",
+          "description": "Sueño sobre arañas",
+          "emotion": "stressed",
+          "tags": [
+            "Miedos"
+          ],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560170"
+        }
+      ],
       "settings": {
         "darkMode": true,
         "language": "es",
@@ -44,5 +47,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T19:09:19.613Z"
+  "lastUpdated": "2025-06-30T19:09:20.372Z"
 }
