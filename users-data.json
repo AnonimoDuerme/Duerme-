@@ -14,7 +14,7 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Primer día usando la app",
-          "id": "1751310521935"
+          "id": "1751310521001"
         },
         {
           "date": "2025-04-02",
@@ -24,7 +24,7 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Me acosté tarde viendo Netflix",
-          "id": "1751310521936"
+          "id": "1751310521002"
         },
         {
           "date": "2025-04-03",
@@ -34,7 +34,7 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Buen descanso",
-          "id": "1751310521937"
+          "id": "1751310521003"
         },
         {
           "date": "2025-04-04",
@@ -44,7 +44,7 @@
           "quality": 2,
           "mood": "stressed",
           "notes": "Muchas pesadillas",
-          "id": "1751310521938"
+          "id": "1751310521004"
         },
         {
           "date": "2025-04-05",
@@ -54,7 +54,7 @@
           "quality": 5,
           "mood": "refreshed",
           "notes": "Excelente noche",
-          "id": "1751310521939"
+          "id": "1751310521005"
         },
         {
           "date": "2025-04-06",
@@ -63,8 +63,8 @@
           "duration": 8,
           "quality": 4,
           "mood": "calm",
-          "notes": "",
-          "id": "1751310521940"
+          "notes": "Fin de semana relajado",
+          "id": "1751310521006"
         },
         {
           "date": "2025-04-07",
@@ -73,8 +73,8 @@
           "duration": 7.5,
           "quality": 3,
           "mood": "tired",
-          "notes": "Fin de semana, me acosté tarde",
-          "id": "1751310521941"
+          "notes": "Domingo, me acosté tarde",
+          "id": "1751310521007"
         },
         {
           "date": "2025-04-08",
@@ -84,7 +84,7 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Vuelta a la rutina",
-          "id": "1751310521942"
+          "id": "1751310521008"
         },
         {
           "date": "2025-04-09",
@@ -94,7 +94,7 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Desperté varias veces",
-          "id": "1751310521943"
+          "id": "1751310521009"
         },
         {
           "date": "2025-04-10",
@@ -104,17 +104,357 @@
           "quality": 2,
           "mood": "stressed",
           "notes": "Pesadilla con dientes",
-          "id": "1751310521944"
+          "id": "1751310521010"
         },
         {
-          "date": "2025-05-15",
+          "date": "2025-04-11",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Mejor noche",
+          "id": "1751310521011"
+        },
+        {
+          "date": "2025-04-12",
           "bedtime": "23:00",
           "wakeTime": "07:00",
           "duration": 8,
           "quality": 4,
           "mood": "calm",
-          "notes": "Mes tranquilo",
-          "id": "1751310521970"
+          "notes": "Noche tranquila",
+          "id": "1751310521012"
+        },
+        {
+          "date": "2025-04-13",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de fiesta",
+          "id": "1751310521013"
+        },
+        {
+          "date": "2025-04-14",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Domingo perfecto",
+          "id": "1751310521014"
+        },
+        {
+          "date": "2025-04-15",
+          "bedtime": "23:30",
+          "wakeTime": "07:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Sueño extraño con ex",
+          "id": "1751310521015"
+        },
+        {
+          "date": "2025-04-16",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Buen descanso",
+          "id": "1751310521016"
+        },
+        {
+          "date": "2025-04-17",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Rutina estable",
+          "id": "1751310521017"
+        },
+        {
+          "date": "2025-04-18",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Trabajo hasta tarde",
+          "id": "1751310521018"
+        },
+        {
+          "date": "2025-04-19",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Viernes perfecto",
+          "id": "1751310521019"
+        },
+        {
+          "date": "2025-04-20",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla de caída",
+          "id": "1751310521020"
+        },
+        {
+          "date": "2025-04-21",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Recuperándome",
+          "id": "1751310521021"
+        },
+        {
+          "date": "2025-04-22",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Noche estable",
+          "id": "1751310521022"
+        },
+        {
+          "date": "2025-04-23",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Algo cansada",
+          "id": "1751310521023"
+        },
+        {
+          "date": "2025-04-24",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves tranquilo",
+          "id": "1751310521024"
+        },
+        {
+          "date": "2025-04-25",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Fin de semana llegando",
+          "id": "1751310521025"
+        },
+        {
+          "date": "2025-04-26",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de películas",
+          "id": "1751310521026"
+        },
+        {
+          "date": "2025-04-27",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo relajado",
+          "id": "1751310521027"
+        },
+        {
+          "date": "2025-04-28",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310521028"
+        },
+        {
+          "date": "2025-04-29",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes cansado",
+          "id": "1751310521029"
+        },
+        {
+          "date": "2025-04-30",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Fin de abril",
+          "id": "1751310521030"
+        },
+        {
+          "date": "2025-05-01",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Día del trabajador",
+          "id": "1751310521031"
+        },
+        {
+          "date": "2025-05-02",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes festivo",
+          "id": "1751310521032"
+        },
+        {
+          "date": "2025-05-03",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fin de semana largo",
+          "id": "1751310521033"
+        },
+        {
+          "date": "2025-05-04",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo tranquilo",
+          "id": "1751310521034"
+        },
+        {
+          "date": "2025-05-05",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Vuelta al trabajo",
+          "id": "1751310521035"
+        },
+        {
+          "date": "2025-05-06",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes productivo",
+          "id": "1751310521036"
+        },
+        {
+          "date": "2025-05-07",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Proyecto complicado",
+          "id": "1751310521037"
+        },
+        {
+          "date": "2025-05-08",
+          "bedtime": "23:30",
+          "wakeTime": "07:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves normal",
+          "id": "1751310521038"
+        },
+        {
+          "date": "2025-05-09",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes llegando",
+          "id": "1751310521039"
+        },
+        {
+          "date": "2025-05-10",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Salí con amigos",
+          "id": "1751310521040"
+        },
+        {
+          "date": "2025-05-11",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Sábado en casa",
+          "id": "1751310521041"
+        },
+        {
+          "date": "2025-05-12",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Domingo perfecto",
+          "id": "1751310521042"
+        },
+        {
+          "date": "2025-05-13",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Nueva semana",
+          "id": "1751310521043"
+        },
+        {
+          "date": "2025-05-14",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310521044"
+        },
+        {
+          "date": "2025-05-15",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Mitad de semana",
+          "id": "1751310521045"
         },
         {
           "date": "2025-05-16",
@@ -122,9 +462,429 @@
           "wakeTime": "07:30",
           "duration": 7.75,
           "quality": 3,
-          "mood": "refreshed",
+          "mood": "calm",
           "notes": "Sueño creativo",
-          "id": "1751310521971"
+          "id": "1751310521046"
+        },
+        {
+          "date": "2025-05-17",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310521047"
+        },
+        {
+          "date": "2025-05-18",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "tired",
+          "notes": "Noche de fiesta",
+          "id": "1751310521048"
+        },
+        {
+          "date": "2025-05-19",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Recuperándome",
+          "id": "1751310521049"
+        },
+        {
+          "date": "2025-05-20",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo relajado",
+          "id": "1751310521050"
+        },
+        {
+          "date": "2025-05-21",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Lunes normal",
+          "id": "1751310521051"
+        },
+        {
+          "date": "2025-05-22",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes cansado",
+          "id": "1751310521052"
+        },
+        {
+          "date": "2025-05-23",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310521053"
+        },
+        {
+          "date": "2025-05-24",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Jueves ocupado",
+          "id": "1751310521054"
+        },
+        {
+          "date": "2025-05-25",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla extraña",
+          "id": "1751310521055"
+        },
+        {
+          "date": "2025-05-26",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor noche",
+          "id": "1751310521056"
+        },
+        {
+          "date": "2025-05-27",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes tranquilo",
+          "id": "1751310521057"
+        },
+        {
+          "date": "2025-05-28",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Sueño con ex extraño",
+          "id": "1751310521058"
+        },
+        {
+          "date": "2025-05-29",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310521059"
+        },
+        {
+          "date": "2025-05-30",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes de cine",
+          "id": "1751310521060"
+        },
+        {
+          "date": "2025-05-31",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Fin de mayo",
+          "id": "1751310521061"
+        },
+        {
+          "date": "2025-06-01",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Inicio de junio",
+          "id": "1751310521062"
+        },
+        {
+          "date": "2025-06-02",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Lunes normal",
+          "id": "1751310521063"
+        },
+        {
+          "date": "2025-06-03",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310521064"
+        },
+        {
+          "date": "2025-06-04",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310521065"
+        },
+        {
+          "date": "2025-06-05",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Jueves normal",
+          "id": "1751310521066"
+        },
+        {
+          "date": "2025-06-06",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310521067"
+        },
+        {
+          "date": "2025-06-07",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de diversión",
+          "id": "1751310521068"
+        },
+        {
+          "date": "2025-06-08",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo tranquilo",
+          "id": "1751310521069"
+        },
+        {
+          "date": "2025-06-09",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310521070"
+        },
+        {
+          "date": "2025-06-10",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla intensa",
+          "id": "1751310521071"
+        },
+        {
+          "date": "2025-06-11",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor noche",
+          "id": "1751310521072"
+        },
+        {
+          "date": "2025-06-12",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves estable",
+          "id": "1751310521073"
+        },
+        {
+          "date": "2025-06-13",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes ocupado",
+          "id": "1751310521074"
+        },
+        {
+          "date": "2025-06-14",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de fiesta",
+          "id": "1751310521075"
+        },
+        {
+          "date": "2025-06-15",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo de descanso",
+          "id": "1751310521076"
+        },
+        {
+          "date": "2025-06-16",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Lunes energético",
+          "id": "1751310521077"
+        },
+        {
+          "date": "2025-06-17",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes cansado",
+          "id": "1751310521078"
+        },
+        {
+          "date": "2025-06-18",
+          "bedtime": "23:15",
+          "wakeTime": "07:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Miércoles normal",
+          "id": "1751310521079"
+        },
+        {
+          "date": "2025-06-19",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310521080"
+        },
+        {
+          "date": "2025-06-20",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Viernes tranquilo",
+          "id": "1751310521081"
+        },
+        {
+          "date": "2025-06-21",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Solsticio de verano",
+          "id": "1751310521082"
+        },
+        {
+          "date": "2025-06-22",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla de caída",
+          "id": "1751310521083"
+        },
+        {
+          "date": "2025-06-23",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor descanso",
+          "id": "1751310521084"
+        },
+        {
+          "date": "2025-06-24",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes estable",
+          "id": "1751310521085"
+        },
+        {
+          "date": "2025-06-25",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla de examen",
+          "id": "1751310521086"
+        },
+        {
+          "date": "2025-06-26",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves recuperado",
+          "id": "1751310521087"
+        },
+        {
+          "date": "2025-06-27",
+          "bedtime": "23:45",
+          "wakeTime": "07:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes ocupado",
+          "id": "1751310521088"
         },
         {
           "date": "2025-06-28",
@@ -133,8 +893,8 @@
           "duration": 7.75,
           "quality": 4,
           "mood": "refreshed",
-          "notes": "Buen descanso antes del trabajo",
-          "id": "1751310521980"
+          "notes": "Sábado productivo",
+          "id": "1751310521089"
         },
         {
           "date": "2025-06-29",
@@ -143,8 +903,8 @@
           "duration": 7.75,
           "quality": 3,
           "mood": "calm",
-          "notes": "Desperté varias veces",
-          "id": "1751310521981"
+          "notes": "Domingo tranquilo",
+          "id": "1751310521090"
         },
         {
           "date": "2025-06-30",
@@ -153,8 +913,8 @@
           "duration": 8,
           "quality": 4,
           "mood": "refreshed",
-          "notes": "Noche tranquila",
-          "id": "1751310965648"
+          "notes": "Fin de junio",
+          "id": "1751310521091"
         }
       ],
       "dreams": [
@@ -166,7 +926,27 @@
           "tags": ["Liberación"],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
-          "id": "1751310560170"
+          "id": "1751310560001"
+        },
+        {
+          "date": "2025-04-02",
+          "type": "Sueños creativos",
+          "description": "Tuve una idea para un nuevo proyecto de diseño mientras soñaba",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560002"
+        },
+        {
+          "date": "2025-04-03",
+          "type": "Volar",
+          "description": "Volaba por encima de las nubes, era una sensación increíble",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560003"
         },
         {
           "date": "2025-04-04",
@@ -176,7 +956,57 @@
           "tags": ["Miedos"],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
-          "id": "1751310560171"
+          "id": "1751310560004"
+        },
+        {
+          "date": "2025-04-05",
+          "type": "Sueños lúcidos",
+          "description": "Me di cuenta de que estaba soñando y pude controlar el sueño",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560005"
+        },
+        {
+          "date": "2025-04-06",
+          "type": "Volar",
+          "description": "Volaba con mis amigos, todos podíamos volar juntos",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560006"
+        },
+        {
+          "date": "2025-04-07",
+          "type": "Sueños creativos",
+          "description": "Diseñé una casa perfecta en mis sueños, muy detallada",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560007"
+        },
+        {
+          "date": "2025-04-08",
+          "type": "Volar",
+          "description": "Volaba sobre el océano, las olas se veían hermosas desde arriba",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560008"
+        },
+        {
+          "date": "2025-04-09",
+          "type": "Arañas",
+          "description": "Pequeñas arañas tejían telarañas con colores brillantes",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560009"
         },
         {
           "date": "2025-04-10",
@@ -186,7 +1016,47 @@
           "tags": ["Ansiedad"],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
-          "id": "1751310560172"
+          "id": "1751310560010"
+        },
+        {
+          "date": "2025-04-11",
+          "type": "Volar",
+          "description": "Volaba por mi barrio de la infancia, todo se veía diferente",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560011"
+        },
+        {
+          "date": "2025-04-12",
+          "type": "Sueños creativos",
+          "description": "Creé una obra de arte increíble usando solo colores primarios",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560012"
+        },
+        {
+          "date": "2025-04-13",
+          "type": "Volar",
+          "description": "Volaba de noche, las estrellas estaban muy cerca",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560013"
+        },
+        {
+          "date": "2025-04-14",
+          "type": "Sueños lúcidos",
+          "description": "Controlé completamente mi sueño, fue una experiencia increíble",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560014"
         },
         {
           "date": "2025-04-15",
@@ -196,7 +1066,47 @@
           "tags": ["Relaciones"],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
-          "id": "1751310560173"
+          "id": "1751310560015"
+        },
+        {
+          "date": "2025-04-16",
+          "type": "Volar",
+          "description": "Volaba con pájaros, me sentía parte de su bandada",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560016"
+        },
+        {
+          "date": "2025-04-17",
+          "type": "Sueños creativos",
+          "description": "Diseñé un logo perfecto para una empresa ficticia",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560017"
+        },
+        {
+          "date": "2025-04-18",
+          "type": "Arañas",
+          "description": "Una araña tejía mi nombre en su telaraña",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560018"
+        },
+        {
+          "date": "2025-04-19",
+          "type": "Volar",
+          "description": "Volaba sobre montañas nevadas, el paisaje era espectacular",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560019"
         },
         {
           "date": "2025-04-20",
@@ -206,7 +1116,257 @@
           "tags": ["Pesadillas"],
           "emoji": "🕳️",
           "color": "from-red-500/20 to-orange-500/20",
-          "id": "1751310560174"
+          "id": "1751310560020"
+        },
+        {
+          "date": "2025-04-21",
+          "type": "Volar",
+          "description": "Volaba para escapar de la pesadilla anterior, me sentí mejor",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560021"
+        },
+        {
+          "date": "2025-04-22",
+          "type": "Sueños creativos",
+          "description": "Inventé una nueva técnica de pintura en mis sueños",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560022"
+        },
+        {
+          "date": "2025-04-23",
+          "type": "Volar",
+          "description": "Volaba lentamente, disfrutando cada momento en el aire",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560023"
+        },
+        {
+          "date": "2025-04-24",
+          "type": "Sueños lúcidos",
+          "description": "Cambié el escenario de mi sueño a una playa tropical",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560024"
+        },
+        {
+          "date": "2025-04-25",
+          "type": "Volar",
+          "description": "Volaba entre rascacielos, esquivando edificios como en una película",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560025"
+        },
+        {
+          "date": "2025-04-26",
+          "type": "Sueños creativos",
+          "description": "Diseñé una aplicación móvil innovadora",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560026"
+        },
+        {
+          "date": "2025-04-27",
+          "type": "Volar",
+          "description": "Volaba con mi familia, todos juntos en el cielo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560027"
+        },
+        {
+          "date": "2025-04-28",
+          "type": "Arañas",
+          "description": "Arañas de colores creaban patrones hermosos en sus telarañas",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560028"
+        },
+        {
+          "date": "2025-04-29",
+          "type": "Volar",
+          "description": "Volaba sobre un campo de flores, el aroma llegaba hasta arriba",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560029"
+        },
+        {
+          "date": "2025-04-30",
+          "type": "Sueños creativos",
+          "description": "Creé una campaña publicitaria perfecta para un cliente",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560030"
+        },
+        {
+          "date": "2025-05-01",
+          "type": "Volar",
+          "description": "Volaba celebrando el día del trabajador, me sentía libre",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560031"
+        },
+        {
+          "date": "2025-05-02",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un mundo de fantasía",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560032"
+        },
+        {
+          "date": "2025-05-03",
+          "type": "Volar",
+          "description": "Volaba sobre una ciudad desconocida, explorando desde el aire",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560033"
+        },
+        {
+          "date": "2025-05-04",
+          "type": "Sueños creativos",
+          "description": "Inventé un nuevo estilo artístico mezclando técnicas",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560034"
+        },
+        {
+          "date": "2025-05-05",
+          "type": "Volar",
+          "description": "Volaba de regreso al trabajo, llegaba volando a la oficina",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560035"
+        },
+        {
+          "date": "2025-05-06",
+          "type": "Arañas",
+          "description": "Una araña amigable me enseñaba a tejer",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560036"
+        },
+        {
+          "date": "2025-05-07",
+          "type": "Volar",
+          "description": "Volaba para escapar del estrés del proyecto complicado",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560037"
+        },
+        {
+          "date": "2025-05-08",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema de diseño que tenía en la vida real",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560038"
+        },
+        {
+          "date": "2025-05-09",
+          "type": "Volar",
+          "description": "Volaba hacia el fin de semana, anticipando el descanso",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560039"
+        },
+        {
+          "date": "2025-05-10",
+          "type": "Sueños lúcidos",
+          "description": "Creé una fiesta perfecta en mi sueño lúcido",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560040"
+        },
+        {
+          "date": "2025-05-11",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en mi día de descanso en casa",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560041"
+        },
+        {
+          "date": "2025-05-12",
+          "type": "Volar",
+          "description": "Domingo perfecto volando sobre un lago cristalino",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560042"
+        },
+        {
+          "date": "2025-05-13",
+          "type": "Sueños creativos",
+          "description": "Diseñé la portada perfecta para una revista",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560043"
+        },
+        {
+          "date": "2025-05-14",
+          "type": "Volar",
+          "description": "Volaba cansada, pero aún así disfrutaba la sensación",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560044"
+        },
+        {
+          "date": "2025-05-15",
+          "type": "Arañas",
+          "description": "Arañas trabajadoras construían una ciudad en miniatura",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560045"
         },
         {
           "date": "2025-05-16",
@@ -216,7 +1376,87 @@
           "tags": ["Creatividad"],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
-          "id": "1751310560175"
+          "id": "1751310560046"
+        },
+        {
+          "date": "2025-05-17",
+          "type": "Volar",
+          "description": "Volaba productivamente, organizando mis ideas desde el aire",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560047"
+        },
+        {
+          "date": "2025-05-18",
+          "type": "Pesadillas",
+          "description": "Pesadilla después de la fiesta, me perseguían sombras",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310560048"
+        },
+        {
+          "date": "2025-05-19",
+          "type": "Volar",
+          "description": "Volaba para recuperarme de la pesadilla anterior",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560049"
+        },
+        {
+          "date": "2025-05-20",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un domingo perfecto",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560050"
+        },
+        {
+          "date": "2025-05-21",
+          "type": "Volar",
+          "description": "Volaba normalmente para empezar la semana",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560051"
+        },
+        {
+          "date": "2025-05-22",
+          "type": "Dientes cayendo",
+          "description": "Se me caían los dientes mientras presentaba un proyecto",
+          "emotion": "stressed",
+          "tags": ["Ansiedad"],
+          "emoji": "🦷",
+          "color": "from-yellow-500/20 to-orange-500/20",
+          "id": "1751310560052"
+        },
+        {
+          "date": "2025-05-23",
+          "type": "Volar",
+          "description": "Volaba para superar la ansiedad del día anterior",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560053"
+        },
+        {
+          "date": "2025-05-24",
+          "type": "Sueños creativos",
+          "description": "Creé una presentación perfecta en mis sueños",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560054"
         },
         {
           "date": "2025-05-25",
@@ -226,7 +1466,157 @@
           "tags": ["Transformación"],
           "emoji": "💀",
           "color": "from-gray-500/20 to-slate-500/20",
-          "id": "1751310560176"
+          "id": "1751310560055"
+        },
+        {
+          "date": "2025-05-26",
+          "type": "Volar",
+          "description": "Volaba para alejarme de los pensamientos tristes",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560056"
+        },
+        {
+          "date": "2025-05-27",
+          "type": "Sueños creativos",
+          "description": "Diseñé un jardín hermoso con formas geométricas",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560057"
+        },
+        {
+          "date": "2025-05-28",
+          "type": "Soñar con tu ex",
+          "description": "Mi ex del instituto aparecía en mi oficina como cliente",
+          "emotion": "calm",
+          "tags": ["Relaciones"],
+          "emoji": "💔",
+          "color": "from-pink-500/20 to-rose-500/20",
+          "id": "1751310560058"
+        },
+        {
+          "date": "2025-05-29",
+          "type": "Volar",
+          "description": "Volaba productivamente, organizando mis pensamientos",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560059"
+        },
+        {
+          "date": "2025-05-30",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear una noche de cine perfecta",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560060"
+        },
+        {
+          "date": "2025-05-31",
+          "type": "Volar",
+          "description": "Volaba despidiendo el mes de mayo desde las alturas",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560061"
+        },
+        {
+          "date": "2025-06-01",
+          "type": "Sueños creativos",
+          "description": "Diseñé el calendario perfecto para junio",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560062"
+        },
+        {
+          "date": "2025-06-02",
+          "type": "Volar",
+          "description": "Volaba tranquilamente para empezar junio",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560063"
+        },
+        {
+          "date": "2025-06-03",
+          "type": "Arañas",
+          "description": "Arañas ocupadas tejían patrones complejos",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560064"
+        },
+        {
+          "date": "2025-06-04",
+          "type": "Volar",
+          "description": "Volaba activamente, llena de energía",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560065"
+        },
+        {
+          "date": "2025-06-05",
+          "type": "Sueños creativos",
+          "description": "Inventé una nueva paleta de colores para mis diseños",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560066"
+        },
+        {
+          "date": "2025-06-06",
+          "type": "Volar",
+          "description": "Volaba productivamente hacia el fin de semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560067"
+        },
+        {
+          "date": "2025-06-07",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear una fiesta perfecta",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560068"
+        },
+        {
+          "date": "2025-06-08",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en domingo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560069"
+        },
+        {
+          "date": "2025-06-09",
+          "type": "Sueños creativos",
+          "description": "Diseñé una campaña publicitaria innovadora",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560070"
         },
         {
           "date": "2025-06-10",
@@ -236,7 +1626,197 @@
           "tags": ["Pesadillas"],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
-          "id": "1751310560177"
+          "id": "1751310560071"
+        },
+        {
+          "date": "2025-06-11",
+          "type": "Volar",
+          "description": "Volaba para escapar de la pesadilla anterior",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560072"
+        },
+        {
+          "date": "2025-06-12",
+          "type": "Sueños creativos",
+          "description": "Creé un diseño estable y equilibrado",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560073"
+        },
+        {
+          "date": "2025-06-13",
+          "type": "Arañas",
+          "description": "Arañas ocupadas trabajando en sus telarañas",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560074"
+        },
+        {
+          "date": "2025-06-14",
+          "type": "Volar",
+          "description": "Volaba cansada pero libre en la noche de fiesta",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560075"
+        },
+        {
+          "date": "2025-06-15",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un domingo de descanso perfecto",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560076"
+        },
+        {
+          "date": "2025-06-16",
+          "type": "Volar",
+          "description": "Volaba con energía para empezar la semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560077"
+        },
+        {
+          "date": "2025-06-17",
+          "type": "Sueños creativos",
+          "description": "Diseñé algo hermoso a pesar del cansancio",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560078"
+        },
+        {
+          "date": "2025-06-18",
+          "type": "Volar",
+          "description": "Volaba normalmente en miércoles",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560079"
+        },
+        {
+          "date": "2025-06-19",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas productivas para nuevos proyectos",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560080"
+        },
+        {
+          "date": "2025-06-20",
+          "type": "Volar",
+          "description": "Volaba tranquilamente hacia el fin de semana",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560081"
+        },
+        {
+          "date": "2025-06-21",
+          "type": "Sueños lúcidos",
+          "description": "Celebré el solsticio de verano en mi sueño lúcido",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310560082"
+        },
+        {
+          "date": "2025-06-22",
+          "type": "Caída al vacío",
+          "description": "Caía en un pozo profundo lleno de libros, era extraño pero no daba miedo",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "🕳️",
+          "color": "from-red-500/20 to-orange-500/20",
+          "id": "1751310560083"
+        },
+        {
+          "date": "2025-06-23",
+          "type": "Volar",
+          "description": "Volaba para recuperarme de la caída anterior",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560084"
+        },
+        {
+          "date": "2025-06-24",
+          "type": "Sueños creativos",
+          "description": "Creé un diseño estable y hermoso",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560085"
+        },
+        {
+          "date": "2025-06-25",
+          "type": "Pesadillas",
+          "description": "Pesadilla donde llegaba tarde al examen final y no encontraba el aula",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310560086"
+        },
+        {
+          "date": "2025-06-26",
+          "type": "Volar",
+          "description": "Volaba para calmarme después de la pesadilla",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560087"
+        },
+        {
+          "date": "2025-06-27",
+          "type": "Arañas",
+          "description": "Arañas ocupadas trabajando, como yo en viernes",
+          "emotion": "calm",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310560088"
+        },
+        {
+          "date": "2025-06-28",
+          "type": "Sueños creativos",
+          "description": "Diseñé algo productivo para el sábado",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310560089"
+        },
+        {
+          "date": "2025-06-29",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en domingo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310560090"
         },
         {
           "date": "2025-06-30",
@@ -278,7 +1858,7 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Trabajo hasta tarde",
-          "id": "1751310521950"
+          "id": "1751310522001"
         },
         {
           "date": "2025-04-02",
@@ -288,7 +1868,7 @@
           "quality": 2,
           "mood": "stressed",
           "notes": "Deadline del proyecto",
-          "id": "1751310521951"
+          "id": "1751310522002"
         },
         {
           "date": "2025-04-03",
@@ -298,7 +1878,7 @@
           "quality": 3,
           "mood": "calm",
           "notes": "Mejor que ayer",
-          "id": "1751310521952"
+          "id": "1751310522003"
         },
         {
           "date": "2025-04-04",
@@ -308,7 +1888,7 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Terminé el proyecto",
-          "id": "1751310521953"
+          "id": "1751310522004"
         },
         {
           "date": "2025-04-05",
@@ -318,7 +1898,7 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Viernes relajado",
-          "id": "1751310521954"
+          "id": "1751310522005"
         },
         {
           "date": "2025-04-06",
@@ -328,7 +1908,7 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Sábado de videojuegos",
-          "id": "1751310521955"
+          "id": "1751310522006"
         },
         {
           "date": "2025-04-07",
@@ -338,7 +1918,7 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Domingo tranquilo",
-          "id": "1751310521956"
+          "id": "1751310522007"
         },
         {
           "date": "2025-04-08",
@@ -348,27 +1928,807 @@
           "quality": 3,
           "mood": "calm",
           "notes": "Lunes de vuelta al trabajo",
-          "id": "1751310521957"
+          "id": "1751310522008"
         },
         {
-          "date": "2025-05-10",
+          "date": "2025-04-09",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Debugging hasta tarde",
+          "id": "1751310522009"
+        },
+        {
+          "date": "2025-04-10",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Problemas con el código",
+          "id": "1751310522010"
+        },
+        {
+          "date": "2025-04-11",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Solucioné el bug",
+          "id": "1751310522011"
+        },
+        {
+          "date": "2025-04-12",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Sábado productivo",
+          "id": "1751310522012"
+        },
+        {
+          "date": "2025-04-13",
+          "bedtime": "01:15",
+          "wakeTime": "09:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Gaming hasta muy tarde",
+          "id": "1751310522013"
+        },
+        {
+          "date": "2025-04-14",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo relajado",
+          "id": "1751310522014"
+        },
+        {
+          "date": "2025-04-15",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Nueva semana",
+          "id": "1751310522015"
+        },
+        {
+          "date": "2025-04-16",
           "bedtime": "00:00",
           "wakeTime": "08:00",
           "duration": 8,
           "quality": 4,
           "mood": "refreshed",
-          "notes": "Rutina estable",
-          "id": "1751310521975"
+          "notes": "Martes productivo",
+          "id": "1751310522016"
         },
         {
-          "date": "2025-05-11",
-          "bedtime": "01:30",
+          "date": "2025-04-17",
+          "bedtime": "00:45",
           "wakeTime": "08:30",
-          "duration": 7,
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Reuniones todo el día",
+          "id": "1751310522017"
+        },
+        {
+          "date": "2025-04-18",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Jueves ocupado",
+          "id": "1751310522018"
+        },
+        {
+          "date": "2025-04-19",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes llegando",
+          "id": "1751310522019"
+        },
+        {
+          "date": "2025-04-20",
+          "bedtime": "01:30",
+          "wakeTime": "09:15",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Noche de fiesta",
+          "id": "1751310522020"
+        },
+        {
+          "date": "2025-04-21",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Recuperándome",
+          "id": "1751310522021"
+        },
+        {
+          "date": "2025-04-22",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo tranquilo",
+          "id": "1751310522022"
+        },
+        {
+          "date": "2025-04-23",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Nueva semana",
+          "id": "1751310522023"
+        },
+        {
+          "date": "2025-04-24",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes cansado",
+          "id": "1751310522024"
+        },
+        {
+          "date": "2025-04-25",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310522025"
+        },
+        {
+          "date": "2025-04-26",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Jueves de gaming",
+          "id": "1751310522026"
+        },
+        {
+          "date": "2025-04-27",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes normal",
+          "id": "1751310522027"
+        },
+        {
+          "date": "2025-04-28",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Fin de semana",
+          "id": "1751310522028"
+        },
+        {
+          "date": "2025-04-29",
+          "bedtime": "01:15",
+          "wakeTime": "09:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de videojuegos",
+          "id": "1751310522029"
+        },
+        {
+          "date": "2025-04-30",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Fin de abril",
+          "id": "1751310522030"
+        },
+        {
+          "date": "2025-05-01",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Día del trabajador",
+          "id": "1751310522031"
+        },
+        {
+          "date": "2025-05-02",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes festivo",
+          "id": "1751310522032"
+        },
+        {
+          "date": "2025-05-03",
+          "bedtime": "01:30",
+          "wakeTime": "09:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fin de semana largo",
+          "id": "1751310522033"
+        },
+        {
+          "date": "2025-05-04",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Domingo de descanso",
+          "id": "1751310522034"
+        },
+        {
+          "date": "2025-05-05",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Vuelta al trabajo",
+          "id": "1751310522035"
+        },
+        {
+          "date": "2025-05-06",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310522036"
+        },
+        {
+          "date": "2025-05-07",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Miércoles normal",
+          "id": "1751310522037"
+        },
+        {
+          "date": "2025-05-08",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310522038"
+        },
+        {
+          "date": "2025-05-09",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes tranquilo",
+          "id": "1751310522039"
+        },
+        {
+          "date": "2025-05-10",
+          "bedtime": "01:15",
+          "wakeTime": "09:00",
+          "duration": 7.75,
           "quality": 2,
           "mood": "tired",
           "notes": "Noche de gaming",
-          "id": "1751310521976"
+          "id": "1751310522040"
+        },
+        {
+          "date": "2025-05-11",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Sábado en casa",
+          "id": "1751310522041"
+        },
+        {
+          "date": "2025-05-12",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo perfecto",
+          "id": "1751310522042"
+        },
+        {
+          "date": "2025-05-13",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Nueva semana",
+          "id": "1751310522043"
+        },
+        {
+          "date": "2025-05-14",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310522044"
+        },
+        {
+          "date": "2025-05-15",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Mitad de semana",
+          "id": "1751310522045"
+        },
+        {
+          "date": "2025-05-16",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Jueves de código",
+          "id": "1751310522046"
+        },
+        {
+          "date": "2025-05-17",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310522047"
+        },
+        {
+          "date": "2025-05-18",
+          "bedtime": "01:45",
+          "wakeTime": "09:30",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "tired",
+          "notes": "Noche de fiesta",
+          "id": "1751310522048"
+        },
+        {
+          "date": "2025-05-19",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Recuperándome",
+          "id": "1751310522049"
+        },
+        {
+          "date": "2025-05-20",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo relajado",
+          "id": "1751310522050"
+        },
+        {
+          "date": "2025-05-21",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Lunes normal",
+          "id": "1751310522051"
+        },
+        {
+          "date": "2025-05-22",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla con dientes",
+          "id": "1751310522052"
+        },
+        {
+          "date": "2025-05-23",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Mejor noche",
+          "id": "1751310522053"
+        },
+        {
+          "date": "2025-05-24",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Jueves ocupado",
+          "id": "1751310522054"
+        },
+        {
+          "date": "2025-05-25",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes de código",
+          "id": "1751310522055"
+        },
+        {
+          "date": "2025-05-26",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Sábado tranquilo",
+          "id": "1751310522056"
+        },
+        {
+          "date": "2025-05-27",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo productivo",
+          "id": "1751310522057"
+        },
+        {
+          "date": "2025-05-28",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Lunes normal",
+          "id": "1751310522058"
+        },
+        {
+          "date": "2025-05-29",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes productivo",
+          "id": "1751310522059"
+        },
+        {
+          "date": "2025-05-30",
+          "bedtime": "01:30",
+          "wakeTime": "09:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes de cine",
+          "id": "1751310522060"
+        },
+        {
+          "date": "2025-05-31",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Fin de mayo",
+          "id": "1751310522061"
+        },
+        {
+          "date": "2025-06-01",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Inicio de junio",
+          "id": "1751310522062"
+        },
+        {
+          "date": "2025-06-02",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Lunes normal",
+          "id": "1751310522063"
+        },
+        {
+          "date": "2025-06-03",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310522064"
+        },
+        {
+          "date": "2025-06-04",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310522065"
+        },
+        {
+          "date": "2025-06-05",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Jueves de debugging",
+          "id": "1751310522066"
+        },
+        {
+          "date": "2025-06-06",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310522067"
+        },
+        {
+          "date": "2025-06-07",
+          "bedtime": "01:15",
+          "wakeTime": "09:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de gaming",
+          "id": "1751310522068"
+        },
+        {
+          "date": "2025-06-08",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo tranquilo",
+          "id": "1751310522069"
+        },
+        {
+          "date": "2025-06-09",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310522070"
+        },
+        {
+          "date": "2025-06-10",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Martes normal",
+          "id": "1751310522071"
+        },
+        {
+          "date": "2025-06-11",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Miércoles de código",
+          "id": "1751310522072"
+        },
+        {
+          "date": "2025-06-12",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves estable",
+          "id": "1751310522073"
+        },
+        {
+          "date": "2025-06-13",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes ocupado",
+          "id": "1751310522074"
+        },
+        {
+          "date": "2025-06-14",
+          "bedtime": "01:30",
+          "wakeTime": "09:15",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "tired",
+          "notes": "Sábado de fiesta",
+          "id": "1751310522075"
+        },
+        {
+          "date": "2025-06-15",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo de descanso",
+          "id": "1751310522076"
+        },
+        {
+          "date": "2025-06-16",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Lunes energético",
+          "id": "1751310522077"
+        },
+        {
+          "date": "2025-06-17",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes cansado",
+          "id": "1751310522078"
+        },
+        {
+          "date": "2025-06-18",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla con arañas",
+          "id": "1751310522079"
+        },
+        {
+          "date": "2025-06-19",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310522080"
+        },
+        {
+          "date": "2025-06-20",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Viernes tranquilo",
+          "id": "1751310522081"
+        },
+        {
+          "date": "2025-06-21",
+          "bedtime": "01:15",
+          "wakeTime": "09:00",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Solsticio de verano",
+          "id": "1751310522082"
+        },
+        {
+          "date": "2025-06-22",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Sábado en casa",
+          "id": "1751310522083"
+        },
+        {
+          "date": "2025-06-23",
+          "bedtime": "00:30",
+          "wakeTime": "08:15",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Domingo productivo",
+          "id": "1751310522084"
+        },
+        {
+          "date": "2025-06-24",
+          "bedtime": "00:00",
+          "wakeTime": "08:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Lunes estable",
+          "id": "1751310522085"
+        },
+        {
+          "date": "2025-06-25",
+          "bedtime": "00:45",
+          "wakeTime": "08:30",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310522086"
+        },
+        {
+          "date": "2025-06-26",
+          "bedtime": "00:15",
+          "wakeTime": "08:00",
+          "duration": 7.75,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310522087"
+        },
+        {
+          "date": "2025-06-27",
+          "bedtime": "01:00",
+          "wakeTime": "08:45",
+          "duration": 7.75,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Jueves de código",
+          "id": "1751310522088"
         },
         {
           "date": "2025-06-28",
@@ -378,7 +2738,7 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Jugué videojuegos hasta tarde",
-          "id": "1751310521990"
+          "id": "1751310522089"
         },
         {
           "date": "2025-06-29",
@@ -388,7 +2748,7 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Mejor horario",
-          "id": "1751310521991"
+          "id": "1751310522090"
         },
         {
           "date": "2025-06-30",
@@ -398,10 +2758,20 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Fin de mes tranquilo",
-          "id": "1751310521992"
+          "id": "1751310522091"
         }
       ],
       "dreams": [
+        {
+          "date": "2025-04-01",
+          "type": "Pesadillas",
+          "description": "Soñé que el código se borraba solo mientras trabajaba",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561001"
+        },
         {
           "date": "2025-04-02",
           "type": "Pesadillas",
@@ -410,17 +2780,97 @@
           "tags": ["Pesadillas"],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
-          "id": "1751310560180"
+          "id": "1751310561002"
+        },
+        {
+          "date": "2025-04-03",
+          "type": "Sueños creativos",
+          "description": "Tuve una idea para optimizar el algoritmo",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561003"
+        },
+        {
+          "date": "2025-04-04",
+          "type": "Volar",
+          "description": "Volaba celebrando que terminé el proyecto",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561004"
+        },
+        {
+          "date": "2025-04-05",
+          "type": "Sueños creativos",
+          "description": "Diseñé una aplicación perfecta en mis sueños",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561005"
+        },
+        {
+          "date": "2025-04-06",
+          "type": "Volar",
+          "description": "Volaba entre líneas de código como en Matrix",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561006"
+        },
+        {
+          "date": "2025-04-07",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear el domingo perfecto",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561007"
         },
         {
           "date": "2025-04-08",
-          "type": "Caída al vacío",
-          "description": "Caía desde un edificio muy alto, desperté justo antes de tocar el suelo",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema de arquitectura de software",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561008"
+        },
+        {
+          "date": "2025-04-09",
+          "type": "Pesadillas",
+          "description": "El código tenía bugs infinitos que no podía arreglar",
           "emotion": "stressed",
           "tags": ["Pesadillas"],
-          "emoji": "🕳️",
-          "color": "from-red-500/20 to-orange-500/20",
-          "id": "1751310560181"
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561009"
+        },
+        {
+          "date": "2025-04-10",
+          "type": "Arañas",
+          "description": "Arañas salían de mi teclado mientras programaba",
+          "emotion": "stressed",
+          "tags": ["Miedos"],
+          "emoji": "🕷️",
+          "color": "from-purple-500/20 to-pink-500/20",
+          "id": "1751310561010"
+        },
+        {
+          "date": "2025-04-11",
+          "type": "Volar",
+          "description": "Volaba celebrando que solucioné el bug",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561011"
         },
         {
           "date": "2025-04-12",
@@ -430,17 +2880,327 @@
           "tags": ["Creatividad"],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
-          "id": "1751310560182"
+          "id": "1751310561012"
         },
         {
-          "date": "2025-04-20",
+          "date": "2025-04-13",
           "type": "Volar",
-          "description": "Volaba como Superman por la ciudad, era increíble la sensación de libertad",
+          "description": "Volaba por mundos virtuales como en un videojuego",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561013"
+        },
+        {
+          "date": "2025-04-14",
+          "type": "Sueños lúcidos",
+          "description": "Creé mi propio videojuego en el sueño lúcido",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561014"
+        },
+        {
+          "date": "2025-04-15",
+          "type": "Sueños creativos",
+          "description": "Diseñé una interfaz de usuario perfecta",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561015"
+        },
+        {
+          "date": "2025-04-16",
+          "type": "Volar",
+          "description": "Volaba productivamente organizando mis ideas",
           "emotion": "refreshed",
           "tags": ["Liberación"],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
-          "id": "1751310560183"
+          "id": "1751310561016"
+        },
+        {
+          "date": "2025-04-17",
+          "type": "Pesadillas",
+          "description": "Las reuniones no terminaban nunca en mi sueño",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561017"
+        },
+        {
+          "date": "2025-04-18",
+          "type": "Sueños creativos",
+          "description": "Inventé un nuevo lenguaje de programación",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561018"
+        },
+        {
+          "date": "2025-04-19",
+          "type": "Volar",
+          "description": "Volaba hacia el fin de semana con alegría",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561019"
+        },
+        {
+          "date": "2025-04-20",
+          "type": "Caída al vacío",
+          "description": "Caía desde un edificio muy alto, desperté justo antes de tocar el suelo",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "🕳️",
+          "color": "from-red-500/20 to-orange-500/20",
+          "id": "1751310561020"
+        },
+        {
+          "date": "2025-04-21",
+          "type": "Volar",
+          "description": "Volaba para recuperarme de la pesadilla",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561021"
+        },
+        {
+          "date": "2025-04-22",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un domingo perfecto",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561022"
+        },
+        {
+          "date": "2025-04-23",
+          "type": "Sueños creativos",
+          "description": "Planifiqué la arquitectura perfecta para un proyecto",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561023"
+        },
+        {
+          "date": "2025-04-24",
+          "type": "Volar",
+          "description": "Volaba cansado pero libre",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561024"
+        },
+        {
+          "date": "2025-04-25",
+          "type": "Sueños creativos",
+          "description": "Resolví un algoritmo complejo de forma elegante",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561025"
+        },
+        {
+          "date": "2025-04-26",
+          "type": "Volar",
+          "description": "Volaba por mundos de videojuegos",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561026"
+        },
+        {
+          "date": "2025-04-27",
+          "type": "Sueños lúcidos",
+          "description": "Creé el viernes perfecto en mi sueño",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561027"
+        },
+        {
+          "date": "2025-04-28",
+          "type": "Volar",
+          "description": "Volaba hacia el fin de semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561028"
+        },
+        {
+          "date": "2025-04-29",
+          "type": "Sueños creativos",
+          "description": "Diseñé el videojuego perfecto",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561029"
+        },
+        {
+          "date": "2025-04-30",
+          "type": "Volar",
+          "description": "Volaba despidiendo abril",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561030"
+        },
+        {
+          "date": "2025-05-01",
+          "type": "Volar",
+          "description": "Volaba celebrando el día del trabajador",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561031"
+        },
+        {
+          "date": "2025-05-02",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un viernes festivo perfecto",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561032"
+        },
+        {
+          "date": "2025-05-03",
+          "type": "Volar",
+          "description": "Volaba por el fin de semana largo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561033"
+        },
+        {
+          "date": "2025-05-04",
+          "type": "Sueños creativos",
+          "description": "Planifiqué proyectos para la semana",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561034"
+        },
+        {
+          "date": "2025-05-05",
+          "type": "Volar",
+          "description": "Volaba de vuelta al trabajo con energía",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561035"
+        },
+        {
+          "date": "2025-05-06",
+          "type": "Pesadillas",
+          "description": "El servidor se caía constantemente",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561036"
+        },
+        {
+          "date": "2025-05-07",
+          "type": "Sueños creativos",
+          "description": "Encontré la solución a un problema de base de datos",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561037"
+        },
+        {
+          "date": "2025-05-08",
+          "type": "Volar",
+          "description": "Volaba productivamente organizando código",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561038"
+        },
+        {
+          "date": "2025-05-09",
+          "type": "Sueños lúcidos",
+          "description": "Creé el viernes perfecto sin bugs",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561039"
+        },
+        {
+          "date": "2025-05-10",
+          "type": "Volar",
+          "description": "Volaba por mundos de videojuegos toda la noche",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561040"
+        },
+        {
+          "date": "2025-05-11",
+          "type": "Sueños creativos",
+          "description": "Diseñé una aplicación móvil innovadora",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561041"
+        },
+        {
+          "date": "2025-05-12",
+          "type": "Volar",
+          "description": "Volaba en un domingo perfecto",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561042"
+        },
+        {
+          "date": "2025-05-13",
+          "type": "Sueños creativos",
+          "description": "Planifiqué la arquitectura para la nueva semana",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561043"
+        },
+        {
+          "date": "2025-05-14",
+          "type": "Pesadillas",
+          "description": "El código se compilaba pero no funcionaba",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561044"
         },
         {
           "date": "2025-05-15",
@@ -450,7 +3210,67 @@
           "tags": ["Relaciones"],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
-          "id": "1751310560184"
+          "id": "1751310561045"
+        },
+        {
+          "date": "2025-05-16",
+          "type": "Sueños creativos",
+          "description": "Resolví un algoritmo complejo de ordenamiento",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561046"
+        },
+        {
+          "date": "2025-05-17",
+          "type": "Volar",
+          "description": "Volaba productivamente hacia el fin de semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561047"
+        },
+        {
+          "date": "2025-05-18",
+          "type": "Pesadillas",
+          "description": "Perdí todo mi código en un crash del sistema",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561048"
+        },
+        {
+          "date": "2025-05-19",
+          "type": "Volar",
+          "description": "Volaba para recuperarme de la pesadilla",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561049"
+        },
+        {
+          "date": "2025-05-20",
+          "type": "Sueños lúcidos",
+          "description": "Creé el domingo perfecto con código que funcionaba",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561050"
+        },
+        {
+          "date": "2025-05-21",
+          "type": "Sueños creativos",
+          "description": "Diseñé una API REST perfecta",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561051"
         },
         {
           "date": "2025-05-22",
@@ -460,7 +3280,187 @@
           "tags": ["Ansiedad"],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
-          "id": "1751310560185"
+          "id": "1751310561052"
+        },
+        {
+          "date": "2025-05-23",
+          "type": "Volar",
+          "description": "Volaba para superar la ansiedad",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561053"
+        },
+        {
+          "date": "2025-05-24",
+          "type": "Sueños creativos",
+          "description": "Optimicé un algoritmo de búsqueda",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561054"
+        },
+        {
+          "date": "2025-05-25",
+          "type": "Pesadillas",
+          "description": "El código tenía memory leaks infinitos",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561055"
+        },
+        {
+          "date": "2025-05-26",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en sábado",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561056"
+        },
+        {
+          "date": "2025-05-27",
+          "type": "Sueños creativos",
+          "description": "Diseñé una arquitectura de microservicios",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561057"
+        },
+        {
+          "date": "2025-05-28",
+          "type": "Volar",
+          "description": "Volaba normalmente en lunes",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561058"
+        },
+        {
+          "date": "2025-05-29",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema de concurrencia",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561059"
+        },
+        {
+          "date": "2025-05-30",
+          "type": "Volar",
+          "description": "Volaba por películas como en el cine",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561060"
+        },
+        {
+          "date": "2025-05-31",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para despedir mayo",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561061"
+        },
+        {
+          "date": "2025-06-01",
+          "type": "Sueños creativos",
+          "description": "Planifiqué los proyectos de junio",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561062"
+        },
+        {
+          "date": "2025-06-02",
+          "type": "Volar",
+          "description": "Volaba tranquilamente para empezar junio",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561063"
+        },
+        {
+          "date": "2025-06-03",
+          "type": "Pesadillas",
+          "description": "El servidor se caía en producción",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561064"
+        },
+        {
+          "date": "2025-06-04",
+          "type": "Volar",
+          "description": "Volaba activamente resolviendo problemas",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561065"
+        },
+        {
+          "date": "2025-06-05",
+          "type": "Sueños creativos",
+          "description": "Encontré todos los bugs de una vez",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561066"
+        },
+        {
+          "date": "2025-06-06",
+          "type": "Volar",
+          "description": "Volaba productivamente hacia el fin de semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561067"
+        },
+        {
+          "date": "2025-06-07",
+          "type": "Sueños creativos",
+          "description": "Diseñé el videojuego perfecto mientras jugaba",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561068"
+        },
+        {
+          "date": "2025-06-08",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en domingo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561069"
+        },
+        {
+          "date": "2025-06-09",
+          "type": "Sueños creativos",
+          "description": "Planifiqué una nueva arquitectura de software",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561070"
         },
         {
           "date": "2025-06-10",
@@ -470,7 +3470,77 @@
           "tags": ["Control"],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
-          "id": "1751310560186"
+          "id": "1751310561071"
+        },
+        {
+          "date": "2025-06-11",
+          "type": "Pesadillas",
+          "description": "El código se escribía solo pero estaba mal",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561072"
+        },
+        {
+          "date": "2025-06-12",
+          "type": "Volar",
+          "description": "Volaba establemente organizando ideas",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561073"
+        },
+        {
+          "date": "2025-06-13",
+          "type": "Sueños creativos",
+          "description": "Optimicé un algoritmo complejo",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561074"
+        },
+        {
+          "date": "2025-06-14",
+          "type": "Volar",
+          "description": "Volaba cansado pero libre en la fiesta",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561075"
+        },
+        {
+          "date": "2025-06-15",
+          "type": "Sueños lúcidos",
+          "description": "Creé el domingo de descanso perfecto",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561076"
+        },
+        {
+          "date": "2025-06-16",
+          "type": "Volar",
+          "description": "Volaba con energía para empezar la semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561077"
+        },
+        {
+          "date": "2025-06-17",
+          "type": "Pesadillas",
+          "description": "El sistema tenía vulnerabilidades infinitas",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561078"
         },
         {
           "date": "2025-06-18",
@@ -480,7 +3550,127 @@
           "tags": ["Miedos"],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
-          "id": "1751310560187"
+          "id": "1751310561079"
+        },
+        {
+          "date": "2025-06-19",
+          "type": "Volar",
+          "description": "Volaba productivamente superando los miedos",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561080"
+        },
+        {
+          "date": "2025-06-20",
+          "type": "Sueños creativos",
+          "description": "Diseñé una solución elegante para un problema complejo",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561081"
+        },
+        {
+          "date": "2025-06-21",
+          "type": "Volar",
+          "description": "Volaba celebrando el solsticio de verano",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561082"
+        },
+        {
+          "date": "2025-06-22",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para programar sin interrupciones",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561083"
+        },
+        {
+          "date": "2025-06-23",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema de optimización",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561084"
+        },
+        {
+          "date": "2025-06-24",
+          "type": "Volar",
+          "description": "Volaba establemente en lunes",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561085"
+        },
+        {
+          "date": "2025-06-25",
+          "type": "Pesadillas",
+          "description": "El código se compilaba pero crasheaba inmediatamente",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310561086"
+        },
+        {
+          "date": "2025-06-26",
+          "type": "Volar",
+          "description": "Volaba activamente resolviendo bugs",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561087"
+        },
+        {
+          "date": "2025-06-27",
+          "type": "Sueños creativos",
+          "description": "Escribí el código más elegante de mi vida",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310561088"
+        },
+        {
+          "date": "2025-06-28",
+          "type": "Volar",
+          "description": "Volaba por mundos de videojuegos",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561089"
+        },
+        {
+          "date": "2025-06-29",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para tener mejor horario",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310561090"
+        },
+        {
+          "date": "2025-06-30",
+          "type": "Volar",
+          "description": "Volaba tranquilamente despidiendo junio",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310561091"
         }
       ],
       "settings": {
@@ -512,7 +3702,7 @@
           "quality": 5,
           "mood": "refreshed",
           "notes": "Excelente primera noche",
-          "id": "1751310521960"
+          "id": "1751310523001"
         },
         {
           "date": "2025-04-02",
@@ -522,7 +3712,7 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Rutina de ejercicio funcionó",
-          "id": "1751310521961"
+          "id": "1751310523002"
         },
         {
           "date": "2025-04-03",
@@ -532,7 +3722,7 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Meditación antes de dormir",
-          "id": "1751310521962"
+          "id": "1751310523003"
         },
         {
           "date": "2025-04-04",
@@ -542,7 +3732,7 @@
           "quality": 5,
           "mood": "refreshed",
           "notes": "Día perfecto",
-          "id": "1751310521963"
+          "id": "1751310523004"
         },
         {
           "date": "2025-04-05",
@@ -552,7 +3742,7 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Estudié hasta tarde para el examen",
-          "id": "1751310521964"
+          "id": "1751310523005"
         },
         {
           "date": "2025-04-06",
@@ -562,7 +3752,7 @@
           "quality": 5,
           "mood": "refreshed",
           "notes": "Sábado perfecto",
-          "id": "1751310521965"
+          "id": "1751310523006"
         },
         {
           "date": "2025-04-07",
@@ -572,7 +3762,7 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Domingo relajado",
-          "id": "1751310521966"
+          "id": "1751310523007"
         },
         {
           "date": "2025-04-08",
@@ -582,7 +3772,337 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Vuelta a clases",
-          "id": "1751310521967"
+          "id": "1751310523008"
+        },
+        {
+          "date": "2025-04-09",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Mucha tarea",
+          "id": "1751310523009"
+        },
+        {
+          "date": "2025-04-10",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor organización",
+          "id": "1751310523010"
+        },
+        {
+          "date": "2025-04-11",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310523011"
+        },
+        {
+          "date": "2025-04-12",
+          "bedtime": "22:15",
+          "wakeTime": "06:15",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Fin de semana llegando",
+          "id": "1751310523012"
+        },
+        {
+          "date": "2025-04-13",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Salí con amigos",
+          "id": "1751310523013"
+        },
+        {
+          "date": "2025-04-14",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla con examen",
+          "id": "1751310523014"
+        },
+        {
+          "date": "2025-04-15",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Nueva semana",
+          "id": "1751310523015"
+        },
+        {
+          "date": "2025-04-16",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes activo",
+          "id": "1751310523016"
+        },
+        {
+          "date": "2025-04-17",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mitad de semana",
+          "id": "1751310523017"
+        },
+        {
+          "date": "2025-04-18",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Mucho estudio",
+          "id": "1751310523018"
+        },
+        {
+          "date": "2025-04-19",
+          "bedtime": "22:15",
+          "wakeTime": "06:15",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Viernes perfecto",
+          "id": "1751310523019"
+        },
+        {
+          "date": "2025-04-20",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fiesta de cumpleaños",
+          "id": "1751310523020"
+        },
+        {
+          "date": "2025-04-21",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo de descanso",
+          "id": "1751310523021"
+        },
+        {
+          "date": "2025-04-22",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310523022"
+        },
+        {
+          "date": "2025-04-23",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310523023"
+        },
+        {
+          "date": "2025-04-24",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Miércoles estable",
+          "id": "1751310523024"
+        },
+        {
+          "date": "2025-04-25",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310523025"
+        },
+        {
+          "date": "2025-04-26",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes de estudio",
+          "id": "1751310523026"
+        },
+        {
+          "date": "2025-04-27",
+          "bedtime": "22:00",
+          "wakeTime": "06:00",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Sábado perfecto",
+          "id": "1751310523027"
+        },
+        {
+          "date": "2025-04-28",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo tranquilo",
+          "id": "1751310523028"
+        },
+        {
+          "date": "2025-04-29",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310523029"
+        },
+        {
+          "date": "2025-04-30",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fin de abril",
+          "id": "1751310523030"
+        },
+        {
+          "date": "2025-05-01",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Día del trabajador",
+          "id": "1751310523031"
+        },
+        {
+          "date": "2025-05-02",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes festivo",
+          "id": "1751310523032"
+        },
+        {
+          "date": "2025-05-03",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fin de semana largo",
+          "id": "1751310523033"
+        },
+        {
+          "date": "2025-05-04",
+          "bedtime": "22:15",
+          "wakeTime": "06:15",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Domingo perfecto",
+          "id": "1751310523034"
+        },
+        {
+          "date": "2025-05-05",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Vuelta a clases",
+          "id": "1751310523035"
+        },
+        {
+          "date": "2025-05-06",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes activo",
+          "id": "1751310523036"
+        },
+        {
+          "date": "2025-05-07",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Miércoles ocupado",
+          "id": "1751310523037"
+        },
+        {
+          "date": "2025-05-08",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves estable",
+          "id": "1751310523038"
+        },
+        {
+          "date": "2025-05-09",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310523039"
+        },
+        {
+          "date": "2025-05-10",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla extraña",
+          "id": "1751310523040"
+        },
+        {
+          "date": "2025-05-11",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor noche",
+          "id": "1751310523041"
         },
         {
           "date": "2025-05-12",
@@ -592,7 +4112,7 @@
           "quality": 5,
           "mood": "refreshed",
           "notes": "Rutina perfecta",
-          "id": "1751310521977"
+          "id": "1751310523042"
         },
         {
           "date": "2025-05-13",
@@ -602,7 +4122,457 @@
           "quality": 3,
           "mood": "tired",
           "notes": "Examen mañana",
-          "id": "1751310521978"
+          "id": "1751310523043"
+        },
+        {
+          "date": "2025-05-14",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Post-examen",
+          "id": "1751310523044"
+        },
+        {
+          "date": "2025-05-15",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310523045"
+        },
+        {
+          "date": "2025-05-16",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves tranquilo",
+          "id": "1751310523046"
+        },
+        {
+          "date": "2025-05-17",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310523047"
+        },
+        {
+          "date": "2025-05-18",
+          "bedtime": "23:45",
+          "wakeTime": "07:45",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fiesta universitaria",
+          "id": "1751310523048"
+        },
+        {
+          "date": "2025-05-19",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo de recuperación",
+          "id": "1751310523049"
+        },
+        {
+          "date": "2025-05-20",
+          "bedtime": "22:15",
+          "wakeTime": "06:15",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Lunes perfecto",
+          "id": "1751310523050"
+        },
+        {
+          "date": "2025-05-21",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Martes estable",
+          "id": "1751310523051"
+        },
+        {
+          "date": "2025-05-22",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Mucha tarea",
+          "id": "1751310523052"
+        },
+        {
+          "date": "2025-05-23",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves activo",
+          "id": "1751310523053"
+        },
+        {
+          "date": "2025-05-24",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes tranquilo",
+          "id": "1751310523054"
+        },
+        {
+          "date": "2025-05-25",
+          "bedtime": "23:15",
+          "wakeTime": "07:15",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de estudio",
+          "id": "1751310523055"
+        },
+        {
+          "date": "2025-05-26",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo relajado",
+          "id": "1751310523056"
+        },
+        {
+          "date": "2025-05-27",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310523057"
+        },
+        {
+          "date": "2025-05-28",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "calm",
+          "notes": "Sueño extraño con ex",
+          "id": "1751310523058"
+        },
+        {
+          "date": "2025-05-29",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310523059"
+        },
+        {
+          "date": "2025-05-30",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Viernes normal",
+          "id": "1751310523060"
+        },
+        {
+          "date": "2025-05-31",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Fin de mayo",
+          "id": "1751310523061"
+        },
+        {
+          "date": "2025-06-01",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 5,
+          "mood": "refreshed",
+          "notes": "Inicio de junio",
+          "id": "1751310523062"
+        },
+        {
+          "date": "2025-06-02",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Lunes tranquilo",
+          "id": "1751310523063"
+        },
+        {
+          "date": "2025-06-03",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310523064"
+        },
+        {
+          "date": "2025-06-04",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Miércoles activo",
+          "id": "1751310523065"
+        },
+        {
+          "date": "2025-06-05",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves estable",
+          "id": "1751310523066"
+        },
+        {
+          "date": "2025-06-06",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Viernes productivo",
+          "id": "1751310523067"
+        },
+        {
+          "date": "2025-06-07",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado de fiesta",
+          "id": "1751310523068"
+        },
+        {
+          "date": "2025-06-08",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Domingo de descanso",
+          "id": "1751310523069"
+        },
+        {
+          "date": "2025-06-09",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Nueva semana",
+          "id": "1751310523070"
+        },
+        {
+          "date": "2025-06-10",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Martes ocupado",
+          "id": "1751310523071"
+        },
+        {
+          "date": "2025-06-11",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Miércoles tranquilo",
+          "id": "1751310523072"
+        },
+        {
+          "date": "2025-06-12",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves estable",
+          "id": "1751310523073"
+        },
+        {
+          "date": "2025-06-13",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes de estudio",
+          "id": "1751310523074"
+        },
+        {
+          "date": "2025-06-14",
+          "bedtime": "23:45",
+          "wakeTime": "07:45",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Sábado social",
+          "id": "1751310523075"
+        },
+        {
+          "date": "2025-06-15",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla con arañas",
+          "id": "1751310523076"
+        },
+        {
+          "date": "2025-06-16",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor noche",
+          "id": "1751310523077"
+        },
+        {
+          "date": "2025-06-17",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes activo",
+          "id": "1751310523078"
+        },
+        {
+          "date": "2025-06-18",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Miércoles estable",
+          "id": "1751310523079"
+        },
+        {
+          "date": "2025-06-19",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Jueves productivo",
+          "id": "1751310523080"
+        },
+        {
+          "date": "2025-06-20",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes ocupado",
+          "id": "1751310523081"
+        },
+        {
+          "date": "2025-06-21",
+          "bedtime": "23:30",
+          "wakeTime": "07:30",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Solsticio de verano",
+          "id": "1751310523082"
+        },
+        {
+          "date": "2025-06-22",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla de caída",
+          "id": "1751310523083"
+        },
+        {
+          "date": "2025-06-23",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Mejor descanso",
+          "id": "1751310523084"
+        },
+        {
+          "date": "2025-06-24",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 4,
+          "mood": "refreshed",
+          "notes": "Martes estable",
+          "id": "1751310523085"
+        },
+        {
+          "date": "2025-06-25",
+          "bedtime": "22:30",
+          "wakeTime": "06:30",
+          "duration": 8,
+          "quality": 2,
+          "mood": "stressed",
+          "notes": "Pesadilla de examen",
+          "id": "1751310523086"
+        },
+        {
+          "date": "2025-06-26",
+          "bedtime": "22:45",
+          "wakeTime": "06:45",
+          "duration": 8,
+          "quality": 4,
+          "mood": "calm",
+          "notes": "Jueves recuperado",
+          "id": "1751310523087"
+        },
+        {
+          "date": "2025-06-27",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 8,
+          "quality": 3,
+          "mood": "tired",
+          "notes": "Viernes de estudio",
+          "id": "1751310523088"
         },
         {
           "date": "2025-06-28",
@@ -612,7 +4582,7 @@
           "quality": 4,
           "mood": "refreshed",
           "notes": "Vacaciones de verano",
-          "id": "1751310521995"
+          "id": "1751310523089"
         },
         {
           "date": "2025-06-29",
@@ -622,7 +4592,7 @@
           "quality": 5,
           "mood": "refreshed",
           "notes": "Rutina perfecta",
-          "id": "1751310521996"
+          "id": "1751310523090"
         },
         {
           "date": "2025-06-30",
@@ -632,10 +4602,30 @@
           "quality": 4,
           "mood": "calm",
           "notes": "Fin de mes tranquilo",
-          "id": "1751310521997"
+          "id": "1751310523091"
         }
       ],
       "dreams": [
+        {
+          "date": "2025-04-01",
+          "type": "Sueños lúcidos",
+          "description": "Mi primer sueño lúcido, pude controlar todo perfectamente",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562001"
+        },
+        {
+          "date": "2025-04-02",
+          "type": "Volar",
+          "description": "Volaba sobre el campus universitario después del ejercicio",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562002"
+        },
         {
           "date": "2025-04-03",
           "type": "Sueños creativos",
@@ -644,7 +4634,37 @@
           "tags": ["Creatividad"],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
-          "id": "1751310560190"
+          "id": "1751310562003"
+        },
+        {
+          "date": "2025-04-04",
+          "type": "Volar",
+          "description": "Día perfecto volando sobre paisajes hermosos",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562004"
+        },
+        {
+          "date": "2025-04-05",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre llegar tarde al examen",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562005"
+        },
+        {
+          "date": "2025-04-06",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear el sábado perfecto",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562006"
         },
         {
           "date": "2025-04-07",
@@ -654,7 +4674,67 @@
           "tags": ["Liberación"],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
-          "id": "1751310560191"
+          "id": "1751310562007"
+        },
+        {
+          "date": "2025-04-08",
+          "type": "Sueños creativos",
+          "description": "Planifiqué mi horario de clases perfecto",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562008"
+        },
+        {
+          "date": "2025-04-09",
+          "type": "Pesadillas",
+          "description": "Soñé que tenía demasiada tarea y no podía terminar",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562009"
+        },
+        {
+          "date": "2025-04-10",
+          "type": "Volar",
+          "description": "Volaba para organizar mejor mis estudios",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562010"
+        },
+        {
+          "date": "2025-04-11",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas brillantes para mi proyecto de investigación",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562011"
+        },
+        {
+          "date": "2025-04-12",
+          "type": "Volar",
+          "description": "Volaba hacia el fin de semana con alegría",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562012"
+        },
+        {
+          "date": "2025-04-13",
+          "type": "Volar",
+          "description": "Volaba con mis amigos, todos juntos en el cielo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562013"
         },
         {
           "date": "2025-04-14",
@@ -664,7 +4744,107 @@
           "tags": ["Ansiedad"],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
-          "id": "1751310560192"
+          "id": "1751310562014"
+        },
+        {
+          "date": "2025-04-15",
+          "type": "Volar",
+          "description": "Volaba para empezar la nueva semana",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562015"
+        },
+        {
+          "date": "2025-04-16",
+          "type": "Sueños creativos",
+          "description": "Diseñé el experimento perfecto para mi tesis",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562016"
+        },
+        {
+          "date": "2025-04-17",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en mitad de semana",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562017"
+        },
+        {
+          "date": "2025-04-18",
+          "type": "Pesadillas",
+          "description": "Soñé que no podía concentrarme para estudiar",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562018"
+        },
+        {
+          "date": "2025-04-19",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear el viernes perfecto",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562019"
+        },
+        {
+          "date": "2025-04-20",
+          "type": "Volar",
+          "description": "Volaba cansada pero libre en la fiesta",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562020"
+        },
+        {
+          "date": "2025-04-21",
+          "type": "Sueños creativos",
+          "description": "Planifiqué mi semana de estudio perfecta",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562021"
+        },
+        {
+          "date": "2025-04-22",
+          "type": "Volar",
+          "description": "Volaba para empezar la nueva semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562022"
+        },
+        {
+          "date": "2025-04-23",
+          "type": "Pesadillas",
+          "description": "Soñé que llegaba tarde a todas mis clases",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562023"
+        },
+        {
+          "date": "2025-04-24",
+          "type": "Volar",
+          "description": "Volaba establemente para calmarme",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562024"
         },
         {
           "date": "2025-04-25",
@@ -674,7 +4854,147 @@
           "tags": ["Control"],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
-          "id": "1751310560193"
+          "id": "1751310562025"
+        },
+        {
+          "date": "2025-04-26",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre reprobar todos los exámenes",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562026"
+        },
+        {
+          "date": "2025-04-27",
+          "type": "Volar",
+          "description": "Volaba en un sábado perfecto",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562027"
+        },
+        {
+          "date": "2025-04-28",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas para mejorar mi metodología de estudio",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562028"
+        },
+        {
+          "date": "2025-04-29",
+          "type": "Volar",
+          "description": "Volaba para empezar la nueva semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562029"
+        },
+        {
+          "date": "2025-04-30",
+          "type": "Sueños creativos",
+          "description": "Planifiqué mis metas para mayo",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562030"
+        },
+        {
+          "date": "2025-05-01",
+          "type": "Volar",
+          "description": "Volaba celebrando el día del trabajador",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562031"
+        },
+        {
+          "date": "2025-05-02",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un viernes festivo perfecto",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562032"
+        },
+        {
+          "date": "2025-05-03",
+          "type": "Volar",
+          "description": "Volaba cansada pero libre en el fin de semana largo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562033"
+        },
+        {
+          "date": "2025-05-04",
+          "type": "Sueños creativos",
+          "description": "Diseñé el plan de estudio perfecto",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562034"
+        },
+        {
+          "date": "2025-05-05",
+          "type": "Volar",
+          "description": "Volaba de vuelta a clases con energía",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562035"
+        },
+        {
+          "date": "2025-05-06",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas innovadoras para mi proyecto",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562036"
+        },
+        {
+          "date": "2025-05-07",
+          "type": "Pesadillas",
+          "description": "Soñé que no podía encontrar mi aula de examen",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562037"
+        },
+        {
+          "date": "2025-05-08",
+          "type": "Volar",
+          "description": "Volaba establemente para calmarme",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562038"
+        },
+        {
+          "date": "2025-05-09",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema complejo de mi tesis",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562039"
         },
         {
           "date": "2025-05-10",
@@ -684,7 +5004,177 @@
           "tags": ["Transformación"],
           "emoji": "💀",
           "color": "from-gray-500/20 to-slate-500/20",
-          "id": "1751310560194"
+          "id": "1751310562040"
+        },
+        {
+          "date": "2025-05-11",
+          "type": "Volar",
+          "description": "Volaba para superar los pensamientos extraños",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562041"
+        },
+        {
+          "date": "2025-05-12",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear la rutina perfecta",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562042"
+        },
+        {
+          "date": "2025-05-13",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre reprobar el examen de mañana",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562043"
+        },
+        {
+          "date": "2025-05-14",
+          "type": "Volar",
+          "description": "Volaba después del examen, sintiéndome liberada",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562044"
+        },
+        {
+          "date": "2025-05-15",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas para mi próximo proyecto de investigación",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562045"
+        },
+        {
+          "date": "2025-05-16",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en jueves",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562046"
+        },
+        {
+          "date": "2025-05-17",
+          "type": "Sueños creativos",
+          "description": "Planifiqué mi fin de semana de estudio",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562047"
+        },
+        {
+          "date": "2025-05-18",
+          "type": "Volar",
+          "description": "Volaba en la fiesta universitaria, me sentía libre",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562048"
+        },
+        {
+          "date": "2025-05-19",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para recuperarme de la fiesta",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562049"
+        },
+        {
+          "date": "2025-05-20",
+          "type": "Volar",
+          "description": "Volaba en un lunes perfecto",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562050"
+        },
+        {
+          "date": "2025-05-21",
+          "type": "Sueños creativos",
+          "description": "Diseñé un experimento psicológico innovador",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562051"
+        },
+        {
+          "date": "2025-05-22",
+          "type": "Pesadillas",
+          "description": "Soñé que tenía demasiada tarea y no podía terminar",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562052"
+        },
+        {
+          "date": "2025-05-23",
+          "type": "Volar",
+          "description": "Volaba activamente organizando mis estudios",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562053"
+        },
+        {
+          "date": "2025-05-24",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas para mejorar mi técnica de estudio",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562054"
+        },
+        {
+          "date": "2025-05-25",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre no poder concentrarme para estudiar",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562055"
+        },
+        {
+          "date": "2025-05-26",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en domingo",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562056"
+        },
+        {
+          "date": "2025-05-27",
+          "type": "Sueños creativos",
+          "description": "Planifiqué mi semana de estudios perfecta",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562057"
         },
         {
           "date": "2025-05-28",
@@ -694,7 +5184,177 @@
           "tags": ["Relaciones"],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
-          "id": "1751310560195"
+          "id": "1751310562058"
+        },
+        {
+          "date": "2025-05-29",
+          "type": "Volar",
+          "description": "Volaba productivamente organizando mis pensamientos",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562059"
+        },
+        {
+          "date": "2025-05-30",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear un viernes perfecto",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562060"
+        },
+        {
+          "date": "2025-05-31",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre perder todas mis notas de estudio",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562061"
+        },
+        {
+          "date": "2025-06-01",
+          "type": "Volar",
+          "description": "Volaba para empezar junio con energía",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562062"
+        },
+        {
+          "date": "2025-06-02",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas para mi proyecto final",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562063"
+        },
+        {
+          "date": "2025-06-03",
+          "type": "Pesadillas",
+          "description": "Soñé que llegaba tarde a todas mis clases",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562064"
+        },
+        {
+          "date": "2025-06-04",
+          "type": "Volar",
+          "description": "Volaba activamente para superar el estrés",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562065"
+        },
+        {
+          "date": "2025-06-05",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema teórico complejo",
+          "emotion": "calm",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562066"
+        },
+        {
+          "date": "2025-06-06",
+          "type": "Volar",
+          "description": "Volaba productivamente hacia el fin de semana",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562067"
+        },
+        {
+          "date": "2025-06-07",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear una fiesta perfecta",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562068"
+        },
+        {
+          "date": "2025-06-08",
+          "type": "Volar",
+          "description": "Volaba tranquilamente en domingo de descanso",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562069"
+        },
+        {
+          "date": "2025-06-09",
+          "type": "Sueños creativos",
+          "description": "Planifiqué mi estrategia para los exámenes finales",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562070"
+        },
+        {
+          "date": "2025-06-10",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre no poder concentrarme en clase",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562071"
+        },
+        {
+          "date": "2025-06-11",
+          "type": "Volar",
+          "description": "Volaba tranquilamente para calmarme",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562072"
+        },
+        {
+          "date": "2025-06-12",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas estables para mi tesis",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562073"
+        },
+        {
+          "date": "2025-06-13",
+          "type": "Pesadillas",
+          "description": "Soñé que no podía terminar mi proyecto a tiempo",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562074"
+        },
+        {
+          "date": "2025-06-14",
+          "type": "Volar",
+          "description": "Volaba cansada pero libre en la fiesta",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562075"
         },
         {
           "date": "2025-06-15",
@@ -704,7 +5364,67 @@
           "tags": ["Miedos"],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
-          "id": "1751310560196"
+          "id": "1751310562076"
+        },
+        {
+          "date": "2025-06-16",
+          "type": "Volar",
+          "description": "Volaba para superar la pesadilla anterior",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562077"
+        },
+        {
+          "date": "2025-06-17",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas activas para mejorar mi metodología",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562078"
+        },
+        {
+          "date": "2025-06-18",
+          "type": "Volar",
+          "description": "Volaba establemente en miércoles",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562079"
+        },
+        {
+          "date": "2025-06-19",
+          "type": "Sueños creativos",
+          "description": "Resolví un problema complejo de mi investigación",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562080"
+        },
+        {
+          "date": "2025-06-20",
+          "type": "Pesadillas",
+          "description": "Pesadilla sobre reprobar todos mis exámenes",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562081"
+        },
+        {
+          "date": "2025-06-21",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para celebrar el solsticio",
+          "emotion": "calm",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562082"
         },
         {
           "date": "2025-06-22",
@@ -714,7 +5434,27 @@
           "tags": ["Pesadillas"],
           "emoji": "🕳️",
           "color": "from-red-500/20 to-orange-500/20",
-          "id": "1751310560197"
+          "id": "1751310562083"
+        },
+        {
+          "date": "2025-06-23",
+          "type": "Volar",
+          "description": "Volaba para recuperarme de la caída",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562084"
+        },
+        {
+          "date": "2025-06-24",
+          "type": "Sueños creativos",
+          "description": "Tuve ideas estables para mi proyecto final",
+          "emotion": "refreshed",
+          "tags": ["Creatividad"],
+          "emoji": "🎨",
+          "color": "from-green-500/20 to-emerald-500/20",
+          "id": "1751310562085"
         },
         {
           "date": "2025-06-25",
@@ -724,7 +5464,57 @@
           "tags": ["Pesadillas"],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
-          "id": "1751310560198"
+          "id": "1751310562086"
+        },
+        {
+          "date": "2025-06-26",
+          "type": "Volar",
+          "description": "Volaba para superar la ansiedad del examen",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562087"
+        },
+        {
+          "date": "2025-06-27",
+          "type": "Pesadillas",
+          "description": "Soñé que no podía recordar nada para el examen",
+          "emotion": "stressed",
+          "tags": ["Pesadillas"],
+          "emoji": "😱",
+          "color": "from-red-500/20 to-black/20",
+          "id": "1751310562088"
+        },
+        {
+          "date": "2025-06-28",
+          "type": "Volar",
+          "description": "Volaba celebrando el inicio de las vacaciones",
+          "emotion": "refreshed",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562089"
+        },
+        {
+          "date": "2025-06-29",
+          "type": "Sueños lúcidos",
+          "description": "Controlé mi sueño para crear la rutina perfecta de vacaciones",
+          "emotion": "refreshed",
+          "tags": ["Control"],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1751310562090"
+        },
+        {
+          "date": "2025-06-30",
+          "type": "Volar",
+          "description": "Volaba tranquilamente despidiendo junio",
+          "emotion": "calm",
+          "tags": ["Liberación"],
+          "emoji": "🕊️",
+          "color": "from-blue-500/20 to-cyan-500/20",
+          "id": "1751310562091"
         }
       ],
       "settings": {
