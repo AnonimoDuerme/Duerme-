@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1751310981024",
+      "id": "1751311831578",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-06-30T19:16:21.024Z",
+      "registrationDate": "2025-06-30T19:30:31.578Z",
       "sleepRecords": [
         {
           "date": "2025-06-30",
@@ -66,7 +66,7 @@
         }
       ],
       "settings": {
-        "darkMode": true,
+        "darkMode": false,
         "language": "es",
         "notifications": {
           "push": true,
@@ -81,5 +81,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-06-30T19:16:21.233Z"
+  "lastUpdated": "2025-06-30T19:30:31.596Z"
 }
