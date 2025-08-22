@@ -923,7 +923,9 @@
           "type": "Volar",
           "description": "Soñé que volaba sobre mi ciudad natal, veía todo desde arriba y me sentía muy libre",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560001"
@@ -933,7 +935,9 @@
           "type": "Sueños creativos",
           "description": "Tuve una idea para un nuevo proyecto de diseño mientras soñaba",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560002"
@@ -943,7 +947,9 @@
           "type": "Volar",
           "description": "Volaba por encima de las nubes, era una sensación increíble",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560003"
@@ -953,7 +959,9 @@
           "type": "Arañas",
           "description": "Una araña gigante me perseguía por toda la casa, no podía escapar",
           "emotion": "stressed",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560004"
@@ -963,7 +971,9 @@
           "type": "Sueños lúcidos",
           "description": "Me di cuenta de que estaba soñando y pude controlar el sueño",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560005"
@@ -973,7 +983,9 @@
           "type": "Volar",
           "description": "Volaba con mis amigos, todos podíamos volar juntos",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560006"
@@ -983,7 +995,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una casa perfecta en mis sueños, muy detallada",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560007"
@@ -993,7 +1007,9 @@
           "type": "Volar",
           "description": "Volaba sobre el océano, las olas se veían hermosas desde arriba",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560008"
@@ -1003,7 +1019,9 @@
           "type": "Arañas",
           "description": "Pequeñas arañas tejían telarañas con colores brillantes",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560009"
@@ -1013,7 +1031,9 @@
           "type": "Dientes cayendo",
           "description": "Se me caían todos los dientes de golpe mientras hablaba con mi jefe",
           "emotion": "stressed",
-          "tags": ["Ansiedad"],
+          "tags": [
+            "Ansiedad"
+          ],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
           "id": "1751310560010"
@@ -1023,7 +1043,9 @@
           "type": "Volar",
           "description": "Volaba por mi barrio de la infancia, todo se veía diferente",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560011"
@@ -1033,7 +1055,9 @@
           "type": "Sueños creativos",
           "description": "Creé una obra de arte increíble usando solo colores primarios",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560012"
@@ -1043,7 +1067,9 @@
           "type": "Volar",
           "description": "Volaba de noche, las estrellas estaban muy cerca",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560013"
@@ -1053,7 +1079,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé completamente mi sueño, fue una experiencia increíble",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560014"
@@ -1063,7 +1091,9 @@
           "type": "Soñar con tu ex",
           "description": "Soñé con mi ex de la universidad, estábamos hablando como si nada hubiera pasado",
           "emotion": "calm",
-          "tags": ["Relaciones"],
+          "tags": [
+            "Relaciones"
+          ],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
           "id": "1751310560015"
@@ -1073,7 +1103,9 @@
           "type": "Volar",
           "description": "Volaba con pájaros, me sentía parte de su bandada",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560016"
@@ -1083,7 +1115,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé un logo perfecto para una empresa ficticia",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560017"
@@ -1093,7 +1127,9 @@
           "type": "Arañas",
           "description": "Una araña tejía mi nombre en su telaraña",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560018"
@@ -1103,7 +1139,9 @@
           "type": "Volar",
           "description": "Volaba sobre montañas nevadas, el paisaje era espectacular",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560019"
@@ -1113,7 +1151,9 @@
           "type": "Caída al vacío",
           "description": "Caía desde un precipicio muy alto, desperté justo antes de tocar el suelo",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "🕳️",
           "color": "from-red-500/20 to-orange-500/20",
           "id": "1751310560020"
@@ -1123,7 +1163,9 @@
           "type": "Volar",
           "description": "Volaba para escapar de la pesadilla anterior, me sentí mejor",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560021"
@@ -1133,7 +1175,9 @@
           "type": "Sueños creativos",
           "description": "Inventé una nueva técnica de pintura en mis sueños",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560022"
@@ -1143,7 +1187,9 @@
           "type": "Volar",
           "description": "Volaba lentamente, disfrutando cada momento en el aire",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560023"
@@ -1153,7 +1199,9 @@
           "type": "Sueños lúcidos",
           "description": "Cambié el escenario de mi sueño a una playa tropical",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560024"
@@ -1163,7 +1211,9 @@
           "type": "Volar",
           "description": "Volaba entre rascacielos, esquivando edificios como en una película",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560025"
@@ -1173,7 +1223,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una aplicación móvil innovadora",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560026"
@@ -1183,7 +1235,9 @@
           "type": "Volar",
           "description": "Volaba con mi familia, todos juntos en el cielo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560027"
@@ -1193,7 +1247,9 @@
           "type": "Arañas",
           "description": "Arañas de colores creaban patrones hermosos en sus telarañas",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560028"
@@ -1203,7 +1259,9 @@
           "type": "Volar",
           "description": "Volaba sobre un campo de flores, el aroma llegaba hasta arriba",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560029"
@@ -1213,7 +1271,9 @@
           "type": "Sueños creativos",
           "description": "Creé una campaña publicitaria perfecta para un cliente",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560030"
@@ -1223,7 +1283,9 @@
           "type": "Volar",
           "description": "Volaba celebrando el día del trabajador, me sentía libre",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560031"
@@ -1233,7 +1295,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un mundo de fantasía",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560032"
@@ -1243,7 +1307,9 @@
           "type": "Volar",
           "description": "Volaba sobre una ciudad desconocida, explorando desde el aire",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560033"
@@ -1253,7 +1319,9 @@
           "type": "Sueños creativos",
           "description": "Inventé un nuevo estilo artístico mezclando técnicas",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560034"
@@ -1263,7 +1331,9 @@
           "type": "Volar",
           "description": "Volaba de regreso al trabajo, llegaba volando a la oficina",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560035"
@@ -1273,7 +1343,9 @@
           "type": "Arañas",
           "description": "Una araña amigable me enseñaba a tejer",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560036"
@@ -1283,7 +1355,9 @@
           "type": "Volar",
           "description": "Volaba para escapar del estrés del proyecto complicado",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560037"
@@ -1293,7 +1367,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema de diseño que tenía en la vida real",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560038"
@@ -1303,7 +1379,9 @@
           "type": "Volar",
           "description": "Volaba hacia el fin de semana, anticipando el descanso",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560039"
@@ -1313,7 +1391,9 @@
           "type": "Sueños lúcidos",
           "description": "Creé una fiesta perfecta en mi sueño lúcido",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560040"
@@ -1323,7 +1403,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en mi día de descanso en casa",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560041"
@@ -1333,7 +1415,9 @@
           "type": "Volar",
           "description": "Domingo perfecto volando sobre un lago cristalino",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560042"
@@ -1343,7 +1427,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé la portada perfecta para una revista",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560043"
@@ -1353,7 +1439,9 @@
           "type": "Volar",
           "description": "Volaba cansada, pero aún así disfrutaba la sensación",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560044"
@@ -1363,7 +1451,9 @@
           "type": "Arañas",
           "description": "Arañas trabajadoras construían una ciudad en miniatura",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560045"
@@ -1373,7 +1463,9 @@
           "type": "Sueños creativos",
           "description": "Tuve una idea increíble para un proyecto de diseño, desperté y la anoté inmediatamente",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560046"
@@ -1383,7 +1475,9 @@
           "type": "Volar",
           "description": "Volaba productivamente, organizando mis ideas desde el aire",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560047"
@@ -1393,7 +1487,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla después de la fiesta, me perseguían sombras",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310560048"
@@ -1403,7 +1499,9 @@
           "type": "Volar",
           "description": "Volaba para recuperarme de la pesadilla anterior",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560049"
@@ -1413,7 +1511,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un domingo perfecto",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560050"
@@ -1423,7 +1523,9 @@
           "type": "Volar",
           "description": "Volaba normalmente para empezar la semana",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560051"
@@ -1433,7 +1535,9 @@
           "type": "Dientes cayendo",
           "description": "Se me caían los dientes mientras presentaba un proyecto",
           "emotion": "stressed",
-          "tags": ["Ansiedad"],
+          "tags": [
+            "Ansiedad"
+          ],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
           "id": "1751310560052"
@@ -1443,7 +1547,9 @@
           "type": "Volar",
           "description": "Volaba para superar la ansiedad del día anterior",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560053"
@@ -1453,7 +1559,9 @@
           "type": "Sueños creativos",
           "description": "Creé una presentación perfecta en mis sueños",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560054"
@@ -1463,7 +1571,9 @@
           "type": "Muerte",
           "description": "Soñé con el funeral de alguien que no conocía, pero me sentía muy triste",
           "emotion": "calm",
-          "tags": ["Transformación"],
+          "tags": [
+            "Transformación"
+          ],
           "emoji": "💀",
           "color": "from-gray-500/20 to-slate-500/20",
           "id": "1751310560055"
@@ -1473,7 +1583,9 @@
           "type": "Volar",
           "description": "Volaba para alejarme de los pensamientos tristes",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560056"
@@ -1483,7 +1595,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé un jardín hermoso con formas geométricas",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560057"
@@ -1493,7 +1607,9 @@
           "type": "Soñar con tu ex",
           "description": "Mi ex del instituto aparecía en mi oficina como cliente",
           "emotion": "calm",
-          "tags": ["Relaciones"],
+          "tags": [
+            "Relaciones"
+          ],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
           "id": "1751310560058"
@@ -1503,7 +1619,9 @@
           "type": "Volar",
           "description": "Volaba productivamente, organizando mis pensamientos",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560059"
@@ -1513,7 +1631,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear una noche de cine perfecta",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560060"
@@ -1523,7 +1643,9 @@
           "type": "Volar",
           "description": "Volaba despidiendo el mes de mayo desde las alturas",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560061"
@@ -1533,7 +1655,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé el calendario perfecto para junio",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560062"
@@ -1543,7 +1667,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente para empezar junio",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560063"
@@ -1553,7 +1679,9 @@
           "type": "Arañas",
           "description": "Arañas ocupadas tejían patrones complejos",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560064"
@@ -1563,7 +1691,9 @@
           "type": "Volar",
           "description": "Volaba activamente, llena de energía",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560065"
@@ -1573,7 +1703,9 @@
           "type": "Sueños creativos",
           "description": "Inventé una nueva paleta de colores para mis diseños",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560066"
@@ -1583,7 +1715,9 @@
           "type": "Volar",
           "description": "Volaba productivamente hacia el fin de semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560067"
@@ -1593,7 +1727,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear una fiesta perfecta",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560068"
@@ -1603,7 +1739,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en domingo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560069"
@@ -1613,7 +1751,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una campaña publicitaria innovadora",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560070"
@@ -1623,7 +1763,9 @@
           "type": "Pesadillas",
           "description": "Una pesadilla horrible donde me perseguían, no podía correr rápido",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310560071"
@@ -1633,7 +1775,9 @@
           "type": "Volar",
           "description": "Volaba para escapar de la pesadilla anterior",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560072"
@@ -1643,7 +1787,9 @@
           "type": "Sueños creativos",
           "description": "Creé un diseño estable y equilibrado",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560073"
@@ -1653,7 +1799,9 @@
           "type": "Arañas",
           "description": "Arañas ocupadas trabajando en sus telarañas",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560074"
@@ -1663,7 +1811,9 @@
           "type": "Volar",
           "description": "Volaba cansada pero libre en la noche de fiesta",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560075"
@@ -1673,7 +1823,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un domingo de descanso perfecto",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560076"
@@ -1683,7 +1835,9 @@
           "type": "Volar",
           "description": "Volaba con energía para empezar la semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560077"
@@ -1693,7 +1847,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé algo hermoso a pesar del cansancio",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560078"
@@ -1703,7 +1859,9 @@
           "type": "Volar",
           "description": "Volaba normalmente en miércoles",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560079"
@@ -1713,7 +1871,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas productivas para nuevos proyectos",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560080"
@@ -1723,7 +1883,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente hacia el fin de semana",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560081"
@@ -1733,7 +1895,9 @@
           "type": "Sueños lúcidos",
           "description": "Celebré el solsticio de verano en mi sueño lúcido",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310560082"
@@ -1743,7 +1907,9 @@
           "type": "Caída al vacío",
           "description": "Caía en un pozo profundo lleno de libros, era extraño pero no daba miedo",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "🕳️",
           "color": "from-red-500/20 to-orange-500/20",
           "id": "1751310560083"
@@ -1753,7 +1919,9 @@
           "type": "Volar",
           "description": "Volaba para recuperarme de la caída anterior",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560084"
@@ -1763,7 +1931,9 @@
           "type": "Sueños creativos",
           "description": "Creé un diseño estable y hermoso",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560085"
@@ -1773,7 +1943,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla donde llegaba tarde al examen final y no encontraba el aula",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310560086"
@@ -1783,7 +1955,9 @@
           "type": "Volar",
           "description": "Volaba para calmarme después de la pesadilla",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560087"
@@ -1793,7 +1967,9 @@
           "type": "Arañas",
           "description": "Arañas ocupadas trabajando, como yo en viernes",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310560088"
@@ -1803,7 +1979,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé algo productivo para el sábado",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310560089"
@@ -1813,7 +1991,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en domingo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310560090"
@@ -1823,7 +2003,9 @@
           "type": "Sueños lúcidos",
           "description": "Me di cuenta de que estaba soñando y pude controlar lo que pasaba",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751316794845"
@@ -2767,7 +2949,9 @@
           "type": "Pesadillas",
           "description": "Soñé que el código se borraba solo mientras trabajaba",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561001"
@@ -2777,7 +2961,9 @@
           "type": "Pesadillas",
           "description": "Soñé que llegaba tarde a una presentación importante y no funcionaba nada",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561002"
@@ -2787,7 +2973,9 @@
           "type": "Sueños creativos",
           "description": "Tuve una idea para optimizar el algoritmo",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561003"
@@ -2797,7 +2985,9 @@
           "type": "Volar",
           "description": "Volaba celebrando que terminé el proyecto",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561004"
@@ -2807,7 +2997,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una aplicación perfecta en mis sueños",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561005"
@@ -2817,7 +3009,9 @@
           "type": "Volar",
           "description": "Volaba entre líneas de código como en Matrix",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561006"
@@ -2827,7 +3021,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear el domingo perfecto",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561007"
@@ -2837,7 +3033,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema de arquitectura de software",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561008"
@@ -2847,7 +3045,9 @@
           "type": "Pesadillas",
           "description": "El código tenía bugs infinitos que no podía arreglar",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561009"
@@ -2857,7 +3057,9 @@
           "type": "Arañas",
           "description": "Arañas salían de mi teclado mientras programaba",
           "emotion": "stressed",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310561010"
@@ -2867,7 +3069,9 @@
           "type": "Volar",
           "description": "Volaba celebrando que solucioné el bug",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561011"
@@ -2877,7 +3081,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un bug complejo en el código, la solución era muy elegante",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561012"
@@ -2887,7 +3093,9 @@
           "type": "Volar",
           "description": "Volaba por mundos virtuales como en un videojuego",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561013"
@@ -2897,7 +3105,9 @@
           "type": "Sueños lúcidos",
           "description": "Creé mi propio videojuego en el sueño lúcido",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561014"
@@ -2907,7 +3117,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una interfaz de usuario perfecta",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561015"
@@ -2917,7 +3129,9 @@
           "type": "Volar",
           "description": "Volaba productivamente organizando mis ideas",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561016"
@@ -2927,7 +3141,9 @@
           "type": "Pesadillas",
           "description": "Las reuniones no terminaban nunca en mi sueño",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561017"
@@ -2937,7 +3153,9 @@
           "type": "Sueños creativos",
           "description": "Inventé un nuevo lenguaje de programación",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561018"
@@ -2947,7 +3165,9 @@
           "type": "Volar",
           "description": "Volaba hacia el fin de semana con alegría",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561019"
@@ -2957,7 +3177,9 @@
           "type": "Caída al vacío",
           "description": "Caía desde un edificio muy alto, desperté justo antes de tocar el suelo",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "🕳️",
           "color": "from-red-500/20 to-orange-500/20",
           "id": "1751310561020"
@@ -2967,7 +3189,9 @@
           "type": "Volar",
           "description": "Volaba para recuperarme de la pesadilla",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561021"
@@ -2977,7 +3201,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un domingo perfecto",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561022"
@@ -2987,7 +3213,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué la arquitectura perfecta para un proyecto",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561023"
@@ -2997,7 +3225,9 @@
           "type": "Volar",
           "description": "Volaba cansado pero libre",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561024"
@@ -3007,7 +3237,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un algoritmo complejo de forma elegante",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561025"
@@ -3017,7 +3249,9 @@
           "type": "Volar",
           "description": "Volaba por mundos de videojuegos",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561026"
@@ -3027,7 +3261,9 @@
           "type": "Sueños lúcidos",
           "description": "Creé el viernes perfecto en mi sueño",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561027"
@@ -3037,7 +3273,9 @@
           "type": "Volar",
           "description": "Volaba hacia el fin de semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561028"
@@ -3047,7 +3285,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé el videojuego perfecto",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561029"
@@ -3057,7 +3297,9 @@
           "type": "Volar",
           "description": "Volaba despidiendo abril",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561030"
@@ -3067,7 +3309,9 @@
           "type": "Volar",
           "description": "Volaba celebrando el día del trabajador",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561031"
@@ -3077,7 +3321,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un viernes festivo perfecto",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561032"
@@ -3087,7 +3333,9 @@
           "type": "Volar",
           "description": "Volaba por el fin de semana largo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561033"
@@ -3097,7 +3345,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué proyectos para la semana",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561034"
@@ -3107,7 +3357,9 @@
           "type": "Volar",
           "description": "Volaba de vuelta al trabajo con energía",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561035"
@@ -3117,7 +3369,9 @@
           "type": "Pesadillas",
           "description": "El servidor se caía constantemente",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561036"
@@ -3127,7 +3381,9 @@
           "type": "Sueños creativos",
           "description": "Encontré la solución a un problema de base de datos",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561037"
@@ -3137,7 +3393,9 @@
           "type": "Volar",
           "description": "Volaba productivamente organizando código",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561038"
@@ -3147,7 +3405,9 @@
           "type": "Sueños lúcidos",
           "description": "Creé el viernes perfecto sin bugs",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561039"
@@ -3157,7 +3417,9 @@
           "type": "Volar",
           "description": "Volaba por mundos de videojuegos toda la noche",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561040"
@@ -3167,7 +3429,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una aplicación móvil innovadora",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561041"
@@ -3177,7 +3441,9 @@
           "type": "Volar",
           "description": "Volaba en un domingo perfecto",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561042"
@@ -3187,7 +3453,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué la arquitectura para la nueva semana",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561043"
@@ -3197,7 +3465,9 @@
           "type": "Pesadillas",
           "description": "El código se compilaba pero no funcionaba",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561044"
@@ -3207,7 +3477,9 @@
           "type": "Soñar con tu ex",
           "description": "Mi ex novia de hace años aparecía en mi trabajo, era muy extraño",
           "emotion": "calm",
-          "tags": ["Relaciones"],
+          "tags": [
+            "Relaciones"
+          ],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
           "id": "1751310561045"
@@ -3217,7 +3489,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un algoritmo complejo de ordenamiento",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561046"
@@ -3227,7 +3501,9 @@
           "type": "Volar",
           "description": "Volaba productivamente hacia el fin de semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561047"
@@ -3237,7 +3513,9 @@
           "type": "Pesadillas",
           "description": "Perdí todo mi código en un crash del sistema",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561048"
@@ -3247,7 +3525,9 @@
           "type": "Volar",
           "description": "Volaba para recuperarme de la pesadilla",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561049"
@@ -3257,7 +3537,9 @@
           "type": "Sueños lúcidos",
           "description": "Creé el domingo perfecto con código que funcionaba",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561050"
@@ -3267,7 +3549,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una API REST perfecta",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561051"
@@ -3277,7 +3561,9 @@
           "type": "Dientes cayendo",
           "description": "Se me caían los dientes mientras programaba, muy angustiante",
           "emotion": "stressed",
-          "tags": ["Ansiedad"],
+          "tags": [
+            "Ansiedad"
+          ],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
           "id": "1751310561052"
@@ -3287,7 +3573,9 @@
           "type": "Volar",
           "description": "Volaba para superar la ansiedad",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561053"
@@ -3297,7 +3585,9 @@
           "type": "Sueños creativos",
           "description": "Optimicé un algoritmo de búsqueda",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561054"
@@ -3307,7 +3597,9 @@
           "type": "Pesadillas",
           "description": "El código tenía memory leaks infinitos",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561055"
@@ -3317,7 +3609,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en sábado",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561056"
@@ -3327,7 +3621,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una arquitectura de microservicios",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561057"
@@ -3337,7 +3633,9 @@
           "type": "Volar",
           "description": "Volaba normalmente en lunes",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561058"
@@ -3347,7 +3645,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema de concurrencia",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561059"
@@ -3357,7 +3657,9 @@
           "type": "Volar",
           "description": "Volaba por películas como en el cine",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561060"
@@ -3367,7 +3669,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para despedir mayo",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561061"
@@ -3377,7 +3681,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué los proyectos de junio",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561062"
@@ -3387,7 +3693,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente para empezar junio",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561063"
@@ -3397,7 +3705,9 @@
           "type": "Pesadillas",
           "description": "El servidor se caía en producción",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561064"
@@ -3407,7 +3717,9 @@
           "type": "Volar",
           "description": "Volaba activamente resolviendo problemas",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561065"
@@ -3417,7 +3729,9 @@
           "type": "Sueños creativos",
           "description": "Encontré todos los bugs de una vez",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561066"
@@ -3427,7 +3741,9 @@
           "type": "Volar",
           "description": "Volaba productivamente hacia el fin de semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561067"
@@ -3437,7 +3753,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé el videojuego perfecto mientras jugaba",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561068"
@@ -3447,7 +3765,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en domingo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561069"
@@ -3457,7 +3777,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué una nueva arquitectura de software",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561070"
@@ -3467,7 +3789,9 @@
           "type": "Sueños lúcidos",
           "description": "Me di cuenta de que estaba soñando y decidí volar, fue genial poder controlarlo",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561071"
@@ -3477,7 +3801,9 @@
           "type": "Pesadillas",
           "description": "El código se escribía solo pero estaba mal",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561072"
@@ -3487,7 +3813,9 @@
           "type": "Volar",
           "description": "Volaba establemente organizando ideas",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561073"
@@ -3497,7 +3825,9 @@
           "type": "Sueños creativos",
           "description": "Optimicé un algoritmo complejo",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561074"
@@ -3507,7 +3837,9 @@
           "type": "Volar",
           "description": "Volaba cansado pero libre en la fiesta",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561075"
@@ -3517,7 +3849,9 @@
           "type": "Sueños lúcidos",
           "description": "Creé el domingo de descanso perfecto",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561076"
@@ -3527,7 +3861,9 @@
           "type": "Volar",
           "description": "Volaba con energía para empezar la semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561077"
@@ -3537,7 +3873,9 @@
           "type": "Pesadillas",
           "description": "El sistema tenía vulnerabilidades infinitas",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561078"
@@ -3547,7 +3885,9 @@
           "type": "Arañas",
           "description": "Arañas gigantes salían de mi computadora, muy perturbador",
           "emotion": "stressed",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310561079"
@@ -3557,7 +3897,9 @@
           "type": "Volar",
           "description": "Volaba productivamente superando los miedos",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561080"
@@ -3567,7 +3909,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé una solución elegante para un problema complejo",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561081"
@@ -3577,7 +3921,9 @@
           "type": "Volar",
           "description": "Volaba celebrando el solsticio de verano",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561082"
@@ -3587,7 +3933,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para programar sin interrupciones",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561083"
@@ -3597,7 +3945,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema de optimización",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561084"
@@ -3607,7 +3957,9 @@
           "type": "Volar",
           "description": "Volaba establemente en lunes",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561085"
@@ -3617,7 +3969,9 @@
           "type": "Pesadillas",
           "description": "El código se compilaba pero crasheaba inmediatamente",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310561086"
@@ -3627,7 +3981,9 @@
           "type": "Volar",
           "description": "Volaba activamente resolviendo bugs",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561087"
@@ -3637,7 +3993,9 @@
           "type": "Sueños creativos",
           "description": "Escribí el código más elegante de mi vida",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310561088"
@@ -3647,7 +4005,9 @@
           "type": "Volar",
           "description": "Volaba por mundos de videojuegos",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561089"
@@ -3657,7 +4017,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para tener mejor horario",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310561090"
@@ -3667,7 +4029,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente despidiendo junio",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310561091"
@@ -4611,7 +4975,9 @@
           "type": "Sueños lúcidos",
           "description": "Mi primer sueño lúcido, pude controlar todo perfectamente",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562001"
@@ -4621,7 +4987,9 @@
           "type": "Volar",
           "description": "Volaba sobre el campus universitario después del ejercicio",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562002"
@@ -4631,7 +4999,9 @@
           "type": "Sueños creativos",
           "description": "Tuve una idea brillante para mi tesis sobre psicología del sueño",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562003"
@@ -4641,7 +5011,9 @@
           "type": "Volar",
           "description": "Día perfecto volando sobre paisajes hermosos",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562004"
@@ -4651,7 +5023,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre llegar tarde al examen",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562005"
@@ -4661,7 +5035,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear el sábado perfecto",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562006"
@@ -4671,7 +5047,9 @@
           "type": "Volar",
           "description": "Volaba sobre el campus universitario, veía a todos mis compañeros desde arriba",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562007"
@@ -4681,7 +5059,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué mi horario de clases perfecto",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562008"
@@ -4691,7 +5071,9 @@
           "type": "Pesadillas",
           "description": "Soñé que tenía demasiada tarea y no podía terminar",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562009"
@@ -4701,7 +5083,9 @@
           "type": "Volar",
           "description": "Volaba para organizar mejor mis estudios",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562010"
@@ -4711,7 +5095,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas brillantes para mi proyecto de investigación",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562011"
@@ -4721,7 +5107,9 @@
           "type": "Volar",
           "description": "Volaba hacia el fin de semana con alegría",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562012"
@@ -4731,7 +5119,9 @@
           "type": "Volar",
           "description": "Volaba con mis amigos, todos juntos en el cielo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562013"
@@ -4741,7 +5131,9 @@
           "type": "Dientes cayendo",
           "description": "Durante un examen oral se me caían los dientes y no podía hablar",
           "emotion": "stressed",
-          "tags": ["Ansiedad"],
+          "tags": [
+            "Ansiedad"
+          ],
           "emoji": "🦷",
           "color": "from-yellow-500/20 to-orange-500/20",
           "id": "1751310562014"
@@ -4751,7 +5143,9 @@
           "type": "Volar",
           "description": "Volaba para empezar la nueva semana",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562015"
@@ -4761,7 +5155,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé el experimento perfecto para mi tesis",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562016"
@@ -4771,7 +5167,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en mitad de semana",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562017"
@@ -4781,7 +5179,9 @@
           "type": "Pesadillas",
           "description": "Soñé que no podía concentrarme para estudiar",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562018"
@@ -4791,7 +5191,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear el viernes perfecto",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562019"
@@ -4801,7 +5203,9 @@
           "type": "Volar",
           "description": "Volaba cansada pero libre en la fiesta",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562020"
@@ -4811,7 +5215,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué mi semana de estudio perfecta",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562021"
@@ -4821,7 +5227,9 @@
           "type": "Volar",
           "description": "Volaba para empezar la nueva semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562022"
@@ -4831,7 +5239,9 @@
           "type": "Pesadillas",
           "description": "Soñé que llegaba tarde a todas mis clases",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562023"
@@ -4841,7 +5251,9 @@
           "type": "Volar",
           "description": "Volaba establemente para calmarme",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562024"
@@ -4851,7 +5263,9 @@
           "type": "Sueños lúcidos",
           "description": "Practiqué técnicas de sueño lúcido y funcionó, pude controlar el sueño completamente",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562025"
@@ -4861,7 +5275,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre reprobar todos los exámenes",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562026"
@@ -4871,7 +5287,9 @@
           "type": "Volar",
           "description": "Volaba en un sábado perfecto",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562027"
@@ -4881,7 +5299,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas para mejorar mi metodología de estudio",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562028"
@@ -4891,7 +5311,9 @@
           "type": "Volar",
           "description": "Volaba para empezar la nueva semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562029"
@@ -4901,7 +5323,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué mis metas para mayo",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562030"
@@ -4911,7 +5335,9 @@
           "type": "Volar",
           "description": "Volaba celebrando el día del trabajador",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562031"
@@ -4921,7 +5347,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un viernes festivo perfecto",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562032"
@@ -4931,7 +5359,9 @@
           "type": "Volar",
           "description": "Volaba cansada pero libre en el fin de semana largo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562033"
@@ -4941,7 +5371,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé el plan de estudio perfecto",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562034"
@@ -4951,7 +5383,9 @@
           "type": "Volar",
           "description": "Volaba de vuelta a clases con energía",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562035"
@@ -4961,7 +5395,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas innovadoras para mi proyecto",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562036"
@@ -4971,7 +5407,9 @@
           "type": "Pesadillas",
           "description": "Soñé que no podía encontrar mi aula de examen",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562037"
@@ -4981,7 +5419,9 @@
           "type": "Volar",
           "description": "Volaba establemente para calmarme",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562038"
@@ -4991,7 +5431,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema complejo de mi tesis",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562039"
@@ -5001,7 +5443,9 @@
           "type": "Muerte",
           "description": "Soñé con el funeral de mi abuela, pero ella estaba bien en el sueño, muy extraño",
           "emotion": "calm",
-          "tags": ["Transformación"],
+          "tags": [
+            "Transformación"
+          ],
           "emoji": "💀",
           "color": "from-gray-500/20 to-slate-500/20",
           "id": "1751310562040"
@@ -5011,7 +5455,9 @@
           "type": "Volar",
           "description": "Volaba para superar los pensamientos extraños",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562041"
@@ -5021,7 +5467,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear la rutina perfecta",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562042"
@@ -5031,7 +5479,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre reprobar el examen de mañana",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562043"
@@ -5041,7 +5491,9 @@
           "type": "Volar",
           "description": "Volaba después del examen, sintiéndome liberada",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562044"
@@ -5051,7 +5503,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas para mi próximo proyecto de investigación",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562045"
@@ -5061,7 +5515,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en jueves",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562046"
@@ -5071,7 +5527,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué mi fin de semana de estudio",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562047"
@@ -5081,7 +5539,9 @@
           "type": "Volar",
           "description": "Volaba en la fiesta universitaria, me sentía libre",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562048"
@@ -5091,7 +5551,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para recuperarme de la fiesta",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562049"
@@ -5101,7 +5563,9 @@
           "type": "Volar",
           "description": "Volaba en un lunes perfecto",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562050"
@@ -5111,7 +5575,9 @@
           "type": "Sueños creativos",
           "description": "Diseñé un experimento psicológico innovador",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562051"
@@ -5121,7 +5587,9 @@
           "type": "Pesadillas",
           "description": "Soñé que tenía demasiada tarea y no podía terminar",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562052"
@@ -5131,7 +5599,9 @@
           "type": "Volar",
           "description": "Volaba activamente organizando mis estudios",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562053"
@@ -5141,7 +5611,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas para mejorar mi técnica de estudio",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562054"
@@ -5151,7 +5623,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre no poder concentrarme para estudiar",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562055"
@@ -5161,7 +5635,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en domingo",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562056"
@@ -5171,7 +5647,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué mi semana de estudios perfecta",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562057"
@@ -5181,7 +5659,9 @@
           "type": "Soñar con tu ex",
           "description": "Mi ex del instituto aparecía en mi clase de psicología, era profesor invitado",
           "emotion": "calm",
-          "tags": ["Relaciones"],
+          "tags": [
+            "Relaciones"
+          ],
           "emoji": "💔",
           "color": "from-pink-500/20 to-rose-500/20",
           "id": "1751310562058"
@@ -5191,7 +5671,9 @@
           "type": "Volar",
           "description": "Volaba productivamente organizando mis pensamientos",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562059"
@@ -5201,7 +5683,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear un viernes perfecto",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562060"
@@ -5211,7 +5695,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre perder todas mis notas de estudio",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562061"
@@ -5221,7 +5707,9 @@
           "type": "Volar",
           "description": "Volaba para empezar junio con energía",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562062"
@@ -5231,7 +5719,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas para mi proyecto final",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562063"
@@ -5241,7 +5731,9 @@
           "type": "Pesadillas",
           "description": "Soñé que llegaba tarde a todas mis clases",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562064"
@@ -5251,7 +5743,9 @@
           "type": "Volar",
           "description": "Volaba activamente para superar el estrés",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562065"
@@ -5261,7 +5755,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema teórico complejo",
           "emotion": "calm",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562066"
@@ -5271,7 +5767,9 @@
           "type": "Volar",
           "description": "Volaba productivamente hacia el fin de semana",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562067"
@@ -5281,7 +5779,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear una fiesta perfecta",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562068"
@@ -5291,7 +5791,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente en domingo de descanso",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562069"
@@ -5301,7 +5803,9 @@
           "type": "Sueños creativos",
           "description": "Planifiqué mi estrategia para los exámenes finales",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562070"
@@ -5311,7 +5815,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre no poder concentrarme en clase",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562071"
@@ -5321,7 +5827,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente para calmarme",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562072"
@@ -5331,7 +5839,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas estables para mi tesis",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562073"
@@ -5341,7 +5851,9 @@
           "type": "Pesadillas",
           "description": "Soñé que no podía terminar mi proyecto a tiempo",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562074"
@@ -5351,7 +5863,9 @@
           "type": "Volar",
           "description": "Volaba cansada pero libre en la fiesta",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562075"
@@ -5361,7 +5875,9 @@
           "type": "Arañas",
           "description": "Una araña pequeña tejía una telaraña con palabras de mi tesis, era fascinante",
           "emotion": "calm",
-          "tags": ["Miedos"],
+          "tags": [
+            "Miedos"
+          ],
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1751310562076"
@@ -5371,7 +5887,9 @@
           "type": "Volar",
           "description": "Volaba para superar la pesadilla anterior",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562077"
@@ -5381,7 +5899,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas activas para mejorar mi metodología",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562078"
@@ -5391,7 +5911,9 @@
           "type": "Volar",
           "description": "Volaba establemente en miércoles",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562079"
@@ -5401,7 +5923,9 @@
           "type": "Sueños creativos",
           "description": "Resolví un problema complejo de mi investigación",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562080"
@@ -5411,7 +5935,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla sobre reprobar todos mis exámenes",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562081"
@@ -5421,7 +5947,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para celebrar el solsticio",
           "emotion": "calm",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562082"
@@ -5431,7 +5959,9 @@
           "type": "Caída al vacío",
           "description": "Caía en un pozo profundo lleno de libros, era extraño pero no daba miedo",
           "emotion": "calm",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "🕳️",
           "color": "from-red-500/20 to-orange-500/20",
           "id": "1751310562083"
@@ -5441,7 +5971,9 @@
           "type": "Volar",
           "description": "Volaba para recuperarme de la caída",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562084"
@@ -5451,7 +5983,9 @@
           "type": "Sueños creativos",
           "description": "Tuve ideas estables para mi proyecto final",
           "emotion": "refreshed",
-          "tags": ["Creatividad"],
+          "tags": [
+            "Creatividad"
+          ],
           "emoji": "🎨",
           "color": "from-green-500/20 to-emerald-500/20",
           "id": "1751310562085"
@@ -5461,7 +5995,9 @@
           "type": "Pesadillas",
           "description": "Pesadilla donde llegaba tarde al examen final y no encontraba el aula",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562086"
@@ -5471,7 +6007,9 @@
           "type": "Volar",
           "description": "Volaba para superar la ansiedad del examen",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562087"
@@ -5481,7 +6019,9 @@
           "type": "Pesadillas",
           "description": "Soñé que no podía recordar nada para el examen",
           "emotion": "stressed",
-          "tags": ["Pesadillas"],
+          "tags": [
+            "Pesadillas"
+          ],
           "emoji": "😱",
           "color": "from-red-500/20 to-black/20",
           "id": "1751310562088"
@@ -5491,7 +6031,9 @@
           "type": "Volar",
           "description": "Volaba celebrando el inicio de las vacaciones",
           "emotion": "refreshed",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562089"
@@ -5501,7 +6043,9 @@
           "type": "Sueños lúcidos",
           "description": "Controlé mi sueño para crear la rutina perfecta de vacaciones",
           "emotion": "refreshed",
-          "tags": ["Control"],
+          "tags": [
+            "Control"
+          ],
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751310562090"
@@ -5511,7 +6055,9 @@
           "type": "Volar",
           "description": "Volaba tranquilamente despidiendo junio",
           "emotion": "calm",
-          "tags": ["Liberación"],
+          "tags": [
+            "Liberación"
+          ],
           "emoji": "🕊️",
           "color": "from-blue-500/20 to-cyan-500/20",
           "id": "1751310562091"
@@ -5531,7 +6077,29 @@
           "wakeTime": "06:30"
         }
       }
+    },
+    {
+      "id": "1755824370446",
+      "username": "sara",
+      "profileImage": "👤",
+      "registrationDate": "2025-08-22T00:59:30.446Z",
+      "sleepRecords": [],
+      "dreams": [],
+      "settings": {
+        "darkMode": true,
+        "language": "es",
+        "notifications": {
+          "push": true,
+          "email": false,
+          "reminders": true
+        },
+        "sleepGoals": {
+          "targetHours": 8,
+          "bedtime": "23:00",
+          "wakeTime": "07:00"
+        }
+      }
     }
   ],
-  "lastUpdated": "2025-06-30T20:54:33.694Z"
+  "lastUpdated": "2025-08-22T00:59:30.455Z"
 }
