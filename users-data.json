@@ -6079,11 +6079,22 @@
       }
     },
     {
-      "id": "1755824370446",
+      "id": "1755824451638",
       "username": "sara",
       "profileImage": "👤",
-      "registrationDate": "2025-08-22T00:59:30.446Z",
-      "sleepRecords": [],
+      "registrationDate": "2025-08-22T01:00:51.638Z",
+      "sleepRecords": [
+        {
+          "date": "2025-08-22",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 7,
+          "quality": 3,
+          "mood": "groggy",
+          "notes": "",
+          "id": "1755824451638"
+        }
+      ],
       "dreams": [],
       "settings": {
         "darkMode": true,
@@ -6101,5 +6112,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-08-22T00:59:30.455Z"
+  "lastUpdated": "2025-08-22T01:00:52.120Z"
 }
