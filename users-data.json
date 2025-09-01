@@ -6112,11 +6112,22 @@
       }
     },
     {
-      "id": "1756732269117",
+      "id": "1756732285605",
       "username": "prueba2",
       "profileImage": "👤",
-      "registrationDate": "2025-09-01T13:11:09.117Z",
-      "sleepRecords": [],
+      "registrationDate": "2025-09-01T13:11:25.605Z",
+      "sleepRecords": [
+        {
+          "date": "2025-09-01",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 7,
+          "quality": 3,
+          "mood": "refreshed",
+          "notes": "",
+          "id": "1756732285604"
+        }
+      ],
       "dreams": [],
       "settings": {
         "darkMode": true,
@@ -6134,5 +6145,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-09-01T13:11:09.125Z"
+  "lastUpdated": "2025-09-01T13:11:25.876Z"
 }
