@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1756804598321",
+      "id": "1756804600931",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-09-02T09:16:38.321Z",
+      "registrationDate": "2025-09-02T09:16:40.931Z",
       "sleepRecords": [
         {
           "date": "2025-04-01",
@@ -915,16 +915,6 @@
           "mood": "refreshed",
           "notes": "Fin de junio",
           "id": "1751310521091"
-        },
-        {
-          "date": "2025-09-02",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 7.5,
-          "quality": 4,
-          "mood": "groggy",
-          "notes": "",
-          "id": "1756804598320"
         }
       ],
       "dreams": [
@@ -2019,6 +2009,18 @@
           "emoji": "🧠",
           "color": "from-indigo-500/20 to-purple-500/20",
           "id": "1751316794845"
+        },
+        {
+          "date": "2025-09-02",
+          "type": "Soñar con tu ex",
+          "description": "Sueño sobre soñar con tu ex",
+          "emotion": "groggy",
+          "tags": [
+            "Relaciones"
+          ],
+          "emoji": "💔",
+          "color": "from-pink-500/20 to-rose-500/20",
+          "id": "1756804600930"
         }
       ],
       "settings": {
@@ -6155,5 +6157,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-09-02T09:16:39.089Z"
+  "lastUpdated": "2025-09-02T09:16:41.546Z"
 }
