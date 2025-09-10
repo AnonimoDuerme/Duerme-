@@ -6157,11 +6157,22 @@
       }
     },
     {
-      "id": "1757529216277",
+      "id": "1757529297134",
       "username": "Nora",
       "profileImage": "👤",
-      "registrationDate": "2025-09-10T18:33:36.277Z",
-      "sleepRecords": [],
+      "registrationDate": "2025-09-10T18:34:57.134Z",
+      "sleepRecords": [
+        {
+          "date": "2025-09-10",
+          "bedtime": "23:00",
+          "wakeTime": "07:00",
+          "duration": 10,
+          "quality": 4,
+          "mood": "groggy",
+          "notes": "",
+          "id": "1757529297134"
+        }
+      ],
       "dreams": [],
       "settings": {
         "darkMode": true,
@@ -6179,5 +6190,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-09-10T18:33:36.287Z"
+  "lastUpdated": "2025-09-10T18:34:57.677Z"
 }
