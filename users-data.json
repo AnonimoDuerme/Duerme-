@@ -6157,23 +6157,25 @@
       }
     },
     {
-      "id": "1757529297134",
+      "id": "1757529298691",
       "username": "Nora",
       "profileImage": "👤",
-      "registrationDate": "2025-09-10T18:34:57.134Z",
-      "sleepRecords": [
+      "registrationDate": "2025-09-10T18:34:58.691Z",
+      "sleepRecords": [],
+      "dreams": [
         {
           "date": "2025-09-10",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 10,
-          "quality": 4,
-          "mood": "groggy",
-          "notes": "",
-          "id": "1757529297134"
+          "type": "Sueños lúcidos",
+          "description": "Sueño sobre sueños lúcidos",
+          "emotion": "groggy",
+          "tags": [
+            "Control"
+          ],
+          "emoji": "🧠",
+          "color": "from-indigo-500/20 to-purple-500/20",
+          "id": "1757529298691"
         }
       ],
-      "dreams": [],
       "settings": {
         "darkMode": true,
         "language": "es",
@@ -6190,5 +6192,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-09-10T18:34:57.677Z"
+  "lastUpdated": "2025-09-10T18:34:59.070Z"
 }
