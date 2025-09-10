@@ -6155,7 +6155,29 @@
           "wakeTime": "07:00"
         }
       }
+    },
+    {
+      "id": "1757529216277",
+      "username": "Nora",
+      "profileImage": "👤",
+      "registrationDate": "2025-09-10T18:33:36.277Z",
+      "sleepRecords": [],
+      "dreams": [],
+      "settings": {
+        "darkMode": true,
+        "language": "es",
+        "notifications": {
+          "push": true,
+          "email": false,
+          "reminders": true
+        },
+        "sleepGoals": {
+          "targetHours": 8,
+          "bedtime": "23:00",
+          "wakeTime": "07:00"
+        }
+      }
     }
   ],
-  "lastUpdated": "2025-09-02T09:16:41.546Z"
+  "lastUpdated": "2025-09-10T18:33:36.287Z"
 }
