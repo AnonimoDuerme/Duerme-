@@ -1,10 +1,10 @@
 {
   "users": [
     {
-      "id": "1758220525559",
+      "id": "1758220526271",
       "username": "Sara",
       "profileImage": "👤",
-      "registrationDate": "2025-09-18T18:35:25.559Z",
+      "registrationDate": "2025-09-18T18:35:26.271Z",
       "sleepRecords": [
         {
           "date": "2025-04-01",
@@ -945,16 +945,6 @@
           "mood": "groggy",
           "notes": "",
           "id": "1758220483712"
-        },
-        {
-          "date": "2025-09-18",
-          "bedtime": "23:00",
-          "wakeTime": "07:00",
-          "duration": 8.5,
-          "quality": 2,
-          "mood": "groggy",
-          "notes": "",
-          "id": "1758220525559"
         }
       ],
       "dreams": [
@@ -2085,6 +2075,18 @@
           "emoji": "🕷️",
           "color": "from-purple-500/20 to-pink-500/20",
           "id": "1758220066603"
+        },
+        {
+          "date": "2025-09-18",
+          "type": "Caída al vacío",
+          "description": "Sueño sobre caída al vacío",
+          "emotion": "groggy",
+          "tags": [
+            "Pesadillas"
+          ],
+          "emoji": "🕳️",
+          "color": "from-red-500/20 to-orange-500/20",
+          "id": "1758220526270"
         }
       ],
       "settings": {
@@ -6266,5 +6268,5 @@
       }
     }
   ],
-  "lastUpdated": "2025-09-18T18:35:25.573Z"
+  "lastUpdated": "2025-09-18T18:35:26.574Z"
 }
